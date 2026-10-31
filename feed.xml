@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Schani Podcast</title>
+    <link>https://spencer-at.github.io/schani-podcast-fc13f351/</link>
+    <atom:link href="https://spencer-at.github.io/schani-podcast-fc13f351/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>Privater Morgenüberblick für Wolfgang: Österreich und die Welt, Finanzen, Tech und KI. Nicht öffentlich gelistet.</description>
+    <language>de-at</language>
+    <lastBuildDate>Sat, 31 Oct 2026 08:15:47 +0100</lastBuildDate>
+    <itunes:author>Schani</itunes:author>
+    <itunes:owner><itunes:name>Schani</itunes:name></itunes:owner>
+    <itunes:image href="https://spencer-at.github.io/schani-podcast-fc13f351/cover.jpg"/>
+    <image><url>https://spencer-at.github.io/schani-podcast-fc13f351/cover.jpg</url><title>Schani Podcast</title><link>https://spencer-at.github.io/schani-podcast-fc13f351/</link></image>
+    <itunes:category text="News"><itunes:category text="Daily News"/></itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:block>yes</itunes:block>
+    <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Samstag, 31. Oktober 2026</title>
+      <description>Schanis Morgenüberblick für Samstag, 31. Oktober 2026: erst Österreich und die Welt, dann Finanzen, dann Tech und KI. Gekürzt und nacherzählt aus echten Podcast-Folgen, nichts dazugedichtet. Keine Anlageempfehlung.
+
+Quellen:
+- Ö1 Journale (ORF): Abendjournal um 18 (30.10.2026) – eigenes Transkript (30.10.2026, 18:34) https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-30102026
+- Was jetzt? (DIE ZEIT): Was Gen Z an diesem Wochenende in Deutschland regeln will (Beschreibung) (31.10.2026, 05:55) https://www.zeit.de/was-jetzt
+- ZIB2-Podcast (ORF): Zu Gast: Friedrich Forsthuber, Präsident Straflandesgericht Wien (nur Beschreibung) (30.10.2026, 22:32) https://sound.orf.at/podcast/tv/zib2-podcast/zu-gast-friedrich-forsthuber-praesident-straflandesgericht-wien
+- Alles auf Aktien (WELT): Anthropic, Nvidia, Skorpion-Gift. Die Geheimnisse des KI-Insiders – Transkript der ersten 12 Min. + Beschreibung (31.10.2026, 04:45) https://allesaufaktien.podigee.io/b1738-anthropic-nvidia-skorpion-gift-die-geheimnisse-des-ki-insiders
+- Ohne Aktien wird's schwer (OMR): So investieren Milliardäre. Musikrechte, Private Credit, Hedgefonds, Schiffe, kein Gold. (Beschreibung) (31.10.2026, 03:00) https://feeds.megaphone.fm/PDS3666998460
+- kurz informiert (heise online): Kurz informiert 30.10.2026 – spät (30.10.2026, 15:00) https://kurzinformiert.podigee.io/3001-kurz-informiert-30-10-2026-spat (Artikel: heise.de/-11505601, -11505575, -11505859, -11505605, -11505625)
+- KI-Update (heise): KI-Update kompakt: Mistral ML4, Cohere, KI-Empfehlungen, KI klont Indie-Spiele (30.10.2026, 15:00) https://kiupdate.podigee.io/679-30-10-2026 (Begleitartikel: https://heise.de/-11506040)
+- Hard Fork (NYT): Are We in an A.I. Bubble? We're About to Find Out. (Beschreibung) (30.10.2026, 11:00) https://www.nytimes.com/column/hard-fork</description>
+      <itunes:summary>Schanis Morgenüberblick für Samstag, 31. Oktober 2026: erst Österreich und die Welt, dann Finanzen, dann Tech und KI. Gekürzt und nacherzählt aus echten Podcast-Folgen, nichts dazugedichtet. Keine Anlageempfehlung.
+
+Quellen:
+- Ö1 Journale (ORF): Abendjournal um 18 (30.10.2026) – eigenes Transkript (30.10.2026, 18:34) https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-30102026
+- Was jetzt? (DIE ZEIT): Was Gen Z an diesem Wochenende in Deutschland regeln will (Beschreibung) (31.10.2026, 05:55) https://www.zeit.de/was-jetzt
+- ZIB2-Podcast (ORF): Zu Gast: Friedrich Forsthuber, Präsident Straflandesgericht Wien (nur Beschreibung) (30.10.2026, 22:32) https://sound.orf.at/podcast/tv/zib2-podcast/zu-gast-friedrich-forsthuber-praesident-straflandesgericht-wien
+- Alles auf Aktien (WELT): Anthropic, Nvidia, Skorpion-Gift. Die Geheimnisse des KI-Insiders – Transkript der ersten 12 Min. + Beschreibung (31.10.2026, 04:45) https://allesaufaktien.podigee.io/b1738-anthropic-nvidia-skorpion-gift-die-geheimnisse-des-ki-insiders
+- Ohne Aktien wird's schwer (OMR): So investieren Milliardäre. Musikrechte, Private Credit, Hedgefonds, Schiffe, kein Gold. (Beschreibung) (31.10.2026, 03:00) https://feeds.megaphone.fm/PDS3666998460
+- kurz informiert (heise online): Kurz informiert 30.10.2026 – spät (30.10.2026, 15:00) https://kurzinformiert.podigee.io/3001-kurz-informiert-30-10-2026-spat (Artikel: heise.de/-11505601, -11505575, -11505859, -11505605, -11505625)
+- KI-Update (heise): KI-Update kompakt: Mistral ML4, Cohere, KI-Empfehlungen, KI klont Indie-Spiele (30.10.2026, 15:00) https://kiupdate.podigee.io/679-30-10-2026 (Begleitartikel: https://heise.de/-11506040)
+- Hard Fork (NYT): Are We in an A.I. Bubble? We're About to Find Out. (Beschreibung) (30.10.2026, 11:00) https://www.nytimes.com/column/hard-fork</itunes:summary>
+      <enclosure url="https://spencer-at.github.io/schani-podcast-fc13f351/episodes/2026-10-31.mp3" length="5354443" type="audio/mpeg"/>
+      <guid isPermaLink="false">schani-podcast-2026-10-31</guid>
+      <pubDate>Sat, 31 Oct 2026 07:00:00 +0100</pubDate>
+      <itunes:duration>535</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+  </channel>
+</rss>
