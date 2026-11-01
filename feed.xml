@@ -6,7 +6,7 @@
     <atom:link href="https://spencer-at.github.io/schani-podcast-fc13f351/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Privater Morgenüberblick für Wolfgang: Österreich und die Welt, Finanzen, Tech und KI. Nicht öffentlich gelistet.</description>
     <language>de-at</language>
-    <lastBuildDate>Sat, 31 Oct 2026 08:15:47 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 17:09:28 +0100</lastBuildDate>
     <itunes:author>Schani</itunes:author>
     <itunes:owner><itunes:name>Schani</itunes:name></itunes:owner>
     <itunes:image href="https://spencer-at.github.io/schani-podcast-fc13f351/cover.jpg"/>
@@ -15,6 +15,27 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>yes</itunes:block>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Sonntag, 1. November 2026</title>
+      <description>Schanis Morgenüberblick für Sonntag, 1. November 2026: erst Österreich und die Welt, dann Finanzen, dann Tech und KI. Gekürzt und nacherzählt aus echten Podcast-Folgen, nichts dazugedichtet. Keine Anlageempfehlung.
+
+Quellen:
+- Ö1 Journale (ORF): Mittagsjournal (31.10.2026) – eigenes Transkript der ersten 15 Min. (31.10.2026, 13:19) https://sound.orf.at/podcast/oe1/oe1-journale/mittagsjournal-31102026
+- Ö1 Journale (ORF): Morgenjournal um 7 (31.10.2026) – eigenes Transkript der ersten 10 Min. (31.10.2026, 07:41) https://sound.orf.at/podcast/oe1/oe1-journale/morgenjournal-um-7-31102026
+- Was jetzt? (DIE ZEIT): Hat Gen Z geregelt? (Beschreibung) (01.11.2026, 06:00) https://www.zeit.de/was-jetzt</description>
+      <itunes:summary>Schanis Morgenüberblick für Sonntag, 1. November 2026: erst Österreich und die Welt, dann Finanzen, dann Tech und KI. Gekürzt und nacherzählt aus echten Podcast-Folgen, nichts dazugedichtet. Keine Anlageempfehlung.
+
+Quellen:
+- Ö1 Journale (ORF): Mittagsjournal (31.10.2026) – eigenes Transkript der ersten 15 Min. (31.10.2026, 13:19) https://sound.orf.at/podcast/oe1/oe1-journale/mittagsjournal-31102026
+- Ö1 Journale (ORF): Morgenjournal um 7 (31.10.2026) – eigenes Transkript der ersten 10 Min. (31.10.2026, 07:41) https://sound.orf.at/podcast/oe1/oe1-journale/morgenjournal-um-7-31102026
+- Was jetzt? (DIE ZEIT): Hat Gen Z geregelt? (Beschreibung) (01.11.2026, 06:00) https://www.zeit.de/was-jetzt</itunes:summary>
+      <enclosure url="https://spencer-at.github.io/schani-podcast-fc13f351/episodes/2026-11-01.mp3" length="2445447" type="audio/mpeg"/>
+      <guid isPermaLink="false">schani-podcast-2026-11-01</guid>
+      <pubDate>Sun, 01 Nov 2026 07:00:00 +0100</pubDate>
+      <itunes:duration>245</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Samstag, 31. Oktober 2026</title>
       <description>Schanis Morgenüberblick für Samstag, 31. Oktober 2026: erst Österreich und die Welt, dann Finanzen, dann Tech und KI. Gekürzt und nacherzählt aus echten Podcast-Folgen, nichts dazugedichtet. Keine Anlageempfehlung.
