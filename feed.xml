@@ -6,7 +6,7 @@
     <atom:link href="https://spencer-at.github.io/schani-podcast-fc13f351/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Privater Morgenüberblick für Wolfgang: Österreich und die Welt, Finanzen, Tech und KI. Nicht öffentlich gelistet.</description>
     <language>de-at</language>
-    <lastBuildDate>Sun, 01 Nov 2026 17:09:28 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 07:15:16 +0100</lastBuildDate>
     <itunes:author>Schani</itunes:author>
     <itunes:owner><itunes:name>Schani</itunes:name></itunes:owner>
     <itunes:image href="https://spencer-at.github.io/schani-podcast-fc13f351/cover.jpg"/>
@@ -15,6 +15,31 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>yes</itunes:block>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Montag, 2. November 2026</title>
+      <description>Schanis Morgenüberblick für Montag, 2. November 2026: erst Österreich und die Welt, dann Finanzen, dann Tech und KI. Gekürzt und nacherzählt aus echten Podcast-Folgen, nichts dazugedichtet. Keine Anlageempfehlung.
+
+Quellen:
+- Ö1 Journale (ORF): Frühjournal um 6 (02.11.2026) – eigenes Transkript der Audiodatei, Feed hat keine Shownotes (02.11.2026, 06:14) https://sound.orf.at/podcast/oe1/oe1-journale/fruehjournal-um-6-02112026
+- Thema des Tages (DER STANDARD): Alles, was ihr über die Midterms wissen müsst – Christophe Kohl (Beschreibung) (02.11.2026, 05:30) https://themadestages.podigee.io/1951-alles-was-ihr-uber-die-midterms-wissen-musst-christophe-kohl
+- Alles auf Aktien (WELT): Das perfekte Kinderdepot und Lehren des Milliarden-Krypto-Hacks – eigenes Transkript der ersten 12 Min. (02.11.2026, 03:59) https://allesaufaktien.podigee.io/1738-das-perfekte-kinderdepot-und-lehren-des-milliarden-krypto-hacks
+- Ohne Aktien wird's schwer (Podstars): Big Oil liefert. Tech in Krise. Binance mit 6 Mrd. $ Hack. Ist Ollie's Bargain Outlet ein Schnapper? (Beschreibung) (02.11.2026, 03:00) https://pdst.fm/e/traffic.megaphone.fm/PDS6266752644.mp3
+- kurz informiert (heise online): Kurz informiert 02.11.2026 – früh – eigenes Transkript (02.11.2026, 05:30) https://kurzinformiert.podigee.io/3002-kurz-informiert-02-11-2026-fruh (Shownote-Artikel: heise.de/-11507164, heise.de/-11507160, heise.de/-11506763, heise.de/-11507338)</description>
+      <itunes:summary>Schanis Morgenüberblick für Montag, 2. November 2026: erst Österreich und die Welt, dann Finanzen, dann Tech und KI. Gekürzt und nacherzählt aus echten Podcast-Folgen, nichts dazugedichtet. Keine Anlageempfehlung.
+
+Quellen:
+- Ö1 Journale (ORF): Frühjournal um 6 (02.11.2026) – eigenes Transkript der Audiodatei, Feed hat keine Shownotes (02.11.2026, 06:14) https://sound.orf.at/podcast/oe1/oe1-journale/fruehjournal-um-6-02112026
+- Thema des Tages (DER STANDARD): Alles, was ihr über die Midterms wissen müsst – Christophe Kohl (Beschreibung) (02.11.2026, 05:30) https://themadestages.podigee.io/1951-alles-was-ihr-uber-die-midterms-wissen-musst-christophe-kohl
+- Alles auf Aktien (WELT): Das perfekte Kinderdepot und Lehren des Milliarden-Krypto-Hacks – eigenes Transkript der ersten 12 Min. (02.11.2026, 03:59) https://allesaufaktien.podigee.io/1738-das-perfekte-kinderdepot-und-lehren-des-milliarden-krypto-hacks
+- Ohne Aktien wird's schwer (Podstars): Big Oil liefert. Tech in Krise. Binance mit 6 Mrd. $ Hack. Ist Ollie's Bargain Outlet ein Schnapper? (Beschreibung) (02.11.2026, 03:00) https://pdst.fm/e/traffic.megaphone.fm/PDS6266752644.mp3
+- kurz informiert (heise online): Kurz informiert 02.11.2026 – früh – eigenes Transkript (02.11.2026, 05:30) https://kurzinformiert.podigee.io/3002-kurz-informiert-02-11-2026-fruh (Shownote-Artikel: heise.de/-11507164, heise.de/-11507160, heise.de/-11506763, heise.de/-11507338)</itunes:summary>
+      <enclosure url="https://spencer-at.github.io/schani-podcast-fc13f351/episodes/2026-11-02.mp3" length="3726754" type="audio/mpeg"/>
+      <guid isPermaLink="false">schani-podcast-2026-11-02</guid>
+      <pubDate>Mon, 02 Nov 2026 07:00:00 +0100</pubDate>
+      <itunes:duration>373</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Sonntag, 1. November 2026</title>
       <description>Schanis Morgenüberblick für Sonntag, 1. November 2026: erst Österreich und die Welt, dann Finanzen, dann Tech und KI. Gekürzt und nacherzählt aus echten Podcast-Folgen, nichts dazugedichtet. Keine Anlageempfehlung.
