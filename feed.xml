@@ -6,7 +6,7 @@
     <atom:link href="https://spencer-at.github.io/schani-podcast-fc13f351/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Privater Morgenüberblick für Wolfgang: Österreich und die Welt, Finanzen, Tech und KI. Nicht öffentlich gelistet.</description>
     <language>de-at</language>
-    <lastBuildDate>Mon, 02 Nov 2026 07:15:16 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 07:14:13 +0100</lastBuildDate>
     <itunes:author>Schani</itunes:author>
     <itunes:owner><itunes:name>Schani</itunes:name></itunes:owner>
     <itunes:image href="https://spencer-at.github.io/schani-podcast-fc13f351/cover.jpg"/>
@@ -15,6 +15,37 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>yes</itunes:block>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Dienstag, 3. November 2026</title>
+      <description>Schanis Morgenüberblick für Dienstag, 3. November 2026: erst Österreich und die Welt, dann Finanzen, dann Tech und KI. Gekürzt und nacherzählt aus echten Podcast-Folgen, nichts dazugedichtet. Keine Anlageempfehlung.
+
+Quellen:
+- Ö1 Journale (ORF): Frühjournal um 6 (03.11.2026) – eigenes Transkript der Audiodatei (03.11.2026, 06:15) https://sound.orf.at/podcast/oe1/oe1-journale/fruehjournal-um-6-03112026
+- Thema des Tages (DER STANDARD): Überläufer, Exorzisten und BDSM-Models: So schräg sind die Midterms – Christian Fahrenbach (Beschreibung) (03.11.2026, 05:30) https://themadestages.podigee.io/1952-uberlaufer-exorzisten-und-bdsm-models-so-schrag-sind-die-midterms-christian-fahrenbach
+- Was jetzt? (DIE ZEIT): Warum dieses Mal alle auf die Midterms schauen (Beschreibung) (03.11.2026, 05:55) https://www.zeit.de/was-jetzt
+- Alles auf Aktien (WELT): Tückische Rekorde bei Apple und die Gewinner-Aktien der Midterms – eigenes Transkript (03.11.2026, 03:59) https://allesaufaktien.podigee.io/1739-tuckische-rekorde-bei-apple-und-die-gewinner-aktien-der-midterms
+- Ohne Aktien wird's schwer (Podstars): Palantir boomt. Apple ist ok, Island-Therme-IPO, Alstom-Crash, Hotel-Aktien-Boom, Anthropic verliert (Beschreibung) (03.11.2026, 03:00) https://pdst.fm/e/traffic.megaphone.fm/PDS7493731647.mp3
+- kurz informiert (heise online): Kurz informiert 03.11.2026 – früh – eigenes Transkript (03.11.2026, 05:30) https://kurzinformiert.podigee.io/3004-kurz-informiert-03-11-2026-fruh
+- KI-Update (heise online): KI-Update kompakt: Linux-Lücke, Audio Intelligence, KI-Operation, KI-Satellit (Begleitartikel) (02.11.2026, 15:00) https://kiupdate.podigee.io/680-02-11-2026 (Artikel: https://heise.de/-11507948)
+- The 404 Media Podcast: Can Data Center Development Be Stopped? (Beschreibung, auf Deutsch zusammengefasst) (02.11.2026, 12:00) Feed: https://feeds.megaphone.fm/TBIEA2761282490</description>
+      <itunes:summary>Schanis Morgenüberblick für Dienstag, 3. November 2026: erst Österreich und die Welt, dann Finanzen, dann Tech und KI. Gekürzt und nacherzählt aus echten Podcast-Folgen, nichts dazugedichtet. Keine Anlageempfehlung.
+
+Quellen:
+- Ö1 Journale (ORF): Frühjournal um 6 (03.11.2026) – eigenes Transkript der Audiodatei (03.11.2026, 06:15) https://sound.orf.at/podcast/oe1/oe1-journale/fruehjournal-um-6-03112026
+- Thema des Tages (DER STANDARD): Überläufer, Exorzisten und BDSM-Models: So schräg sind die Midterms – Christian Fahrenbach (Beschreibung) (03.11.2026, 05:30) https://themadestages.podigee.io/1952-uberlaufer-exorzisten-und-bdsm-models-so-schrag-sind-die-midterms-christian-fahrenbach
+- Was jetzt? (DIE ZEIT): Warum dieses Mal alle auf die Midterms schauen (Beschreibung) (03.11.2026, 05:55) https://www.zeit.de/was-jetzt
+- Alles auf Aktien (WELT): Tückische Rekorde bei Apple und die Gewinner-Aktien der Midterms – eigenes Transkript (03.11.2026, 03:59) https://allesaufaktien.podigee.io/1739-tuckische-rekorde-bei-apple-und-die-gewinner-aktien-der-midterms
+- Ohne Aktien wird's schwer (Podstars): Palantir boomt. Apple ist ok, Island-Therme-IPO, Alstom-Crash, Hotel-Aktien-Boom, Anthropic verliert (Beschreibung) (03.11.2026, 03:00) https://pdst.fm/e/traffic.megaphone.fm/PDS7493731647.mp3
+- kurz informiert (heise online): Kurz informiert 03.11.2026 – früh – eigenes Transkript (03.11.2026, 05:30) https://kurzinformiert.podigee.io/3004-kurz-informiert-03-11-2026-fruh
+- KI-Update (heise online): KI-Update kompakt: Linux-Lücke, Audio Intelligence, KI-Operation, KI-Satellit (Begleitartikel) (02.11.2026, 15:00) https://kiupdate.podigee.io/680-02-11-2026 (Artikel: https://heise.de/-11507948)
+- The 404 Media Podcast: Can Data Center Development Be Stopped? (Beschreibung, auf Deutsch zusammengefasst) (02.11.2026, 12:00) Feed: https://feeds.megaphone.fm/TBIEA2761282490</itunes:summary>
+      <enclosure url="https://spencer-at.github.io/schani-podcast-fc13f351/episodes/2026-11-03.mp3" length="3997382" type="audio/mpeg"/>
+      <guid isPermaLink="false">schani-podcast-2026-11-03</guid>
+      <pubDate>Tue, 03 Nov 2026 07:00:00 +0100</pubDate>
+      <itunes:duration>400</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Montag, 2. November 2026</title>
       <description>Schanis Morgenüberblick für Montag, 2. November 2026: erst Österreich und die Welt, dann Finanzen, dann Tech und KI. Gekürzt und nacherzählt aus echten Podcast-Folgen, nichts dazugedichtet. Keine Anlageempfehlung.
