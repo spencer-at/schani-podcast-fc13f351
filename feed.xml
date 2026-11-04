@@ -6,7 +6,7 @@
     <atom:link href="https://spencer-at.github.io/schani-podcast-fc13f351/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Privater Morgenüberblick für Wolfgang: Österreich und die Welt, Finanzen, Tech und KI. Nicht öffentlich gelistet.</description>
     <language>de-at</language>
-    <lastBuildDate>Tue, 03 Nov 2026 07:14:13 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 06:49:15 +0100</lastBuildDate>
     <itunes:author>Schani</itunes:author>
     <itunes:owner><itunes:name>Schani</itunes:name></itunes:owner>
     <itunes:image href="https://spencer-at.github.io/schani-podcast-fc13f351/cover.jpg"/>
@@ -15,6 +15,43 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>yes</itunes:block>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Mittwoch, 4. November 2026</title>
+      <description>Schanis Morgenüberblick für Mittwoch, 4. November 2026: erst Österreich und die Welt, dann Finanzen, dann Tech und KI. Gekürzt und nacherzählt aus echten Podcast-Folgen, nichts dazugedichtet. Keine Anlageempfehlung.
+
+Quellen:
+- Ö1 Journale (ORF): Frühjournal um 6 (04.11.2026) – eigenes Transkript der Audiodatei (Wetter: Salzburg 4 °C um 6 Uhr, heute 4–12 Grad) (04.11.2026, 06:15) https://sound.orf.at/podcast/oe1/oe1-journale/fruehjournal-um-6-04112026
+- ZIB2-Podcast (ORF): Zu Gast: Martin Kocher, Gouverneur Österreichische Nationalbank (nur Beschreibung) (03.11.2026, 22:38) https://sound.orf.at/podcast/tv/zib2-podcast/zu-gast-martin-kocher-gouverneur-oesterreichische-nationalbank
+- Was jetzt? (DIE ZEIT): Vor Gesprächen in Abu Dhabi – Selenskyj besucht Merz (Update) (Beschreibung) (03.11.2026, 17:08) https://www.zeit.de/was-jetzt
+- Alles auf Aktien (WELT): Der perfekte ETF-Entsparplan und Schaefflers bittere Abrechnung – eigenes Transkript (Anfang der Folge unleserlich, dort nur Beschreibung) (04.11.2026, 03:10) https://allesaufaktien.podigee.io/1740-der-perfekte-etf-entsparplan-und-schaefflers-bittere-abrechnung
+- Ohne Aktien wird's schwer (Podstars): Zalando wird KI-Shopper. AMD, Taiwan-Aktien, Midterm-Wahlen, Shopify &amp; traurige Hedgefonds (Beschreibung) (04.11.2026, 03:00) https://pdst.fm/e/traffic.megaphone.fm/PDS5898152498.mp3
+- Trending Topics Tech Talk: „Wait for the AI Bubble to Burst, Then Buy Everything at 90% Off“ (Cory Doctorow) (Beschreibung) (04.11.2026, 05:00) Feed: https://api.riverside.com/hosting/uw69nfsF.rss
+- Trending Topics Tech Talk: Tumbleweed holt 6,9 Mio. Euro (Beschreibung) (03.11.2026, 08:45) Feed: https://api.riverside.com/hosting/uw69nfsF.rss
+- kurz informiert (heise online): Kurz informiert 04.11.2026 – früh – eigenes Transkript, Artikel heise.de/-11509430, -11509124, -11510056 (04.11.2026, 05:30) https://kurzinformiert.podigee.io/3006-kurz-informiert-04-11-2026-fruh
+- KI-Update (heise online): KI-Update kompakt: Linux-Lücke, Audio Intelligence, KI-Operation, KI-Satellit (Begleitartikel heise.de/-11507948; nur neue Punkte OpenAI/Nvidia) (02.11.2026, 15:00) https://kiupdate.podigee.io/680-02-11-2026
+- The 404 Media Podcast: keine neue Folge (letzte vom 02.11. wurde gestern behandelt) (–) Feed: https://feeds.megaphone.fm/TBIEA2761282490
+- Wetter: Open-Meteo Prognose Bad Ischl (47.71 N, 13.62 E), abgerufen 04.11.2026 06:30: jetzt 4,0 °C, heute 3,3–10,5 °C, morgen 5,9–13,6 °C (04.11.2026) https://api.open-meteo.com</description>
+      <itunes:summary>Schanis Morgenüberblick für Mittwoch, 4. November 2026: erst Österreich und die Welt, dann Finanzen, dann Tech und KI. Gekürzt und nacherzählt aus echten Podcast-Folgen, nichts dazugedichtet. Keine Anlageempfehlung.
+
+Quellen:
+- Ö1 Journale (ORF): Frühjournal um 6 (04.11.2026) – eigenes Transkript der Audiodatei (Wetter: Salzburg 4 °C um 6 Uhr, heute 4–12 Grad) (04.11.2026, 06:15) https://sound.orf.at/podcast/oe1/oe1-journale/fruehjournal-um-6-04112026
+- ZIB2-Podcast (ORF): Zu Gast: Martin Kocher, Gouverneur Österreichische Nationalbank (nur Beschreibung) (03.11.2026, 22:38) https://sound.orf.at/podcast/tv/zib2-podcast/zu-gast-martin-kocher-gouverneur-oesterreichische-nationalbank
+- Was jetzt? (DIE ZEIT): Vor Gesprächen in Abu Dhabi – Selenskyj besucht Merz (Update) (Beschreibung) (03.11.2026, 17:08) https://www.zeit.de/was-jetzt
+- Alles auf Aktien (WELT): Der perfekte ETF-Entsparplan und Schaefflers bittere Abrechnung – eigenes Transkript (Anfang der Folge unleserlich, dort nur Beschreibung) (04.11.2026, 03:10) https://allesaufaktien.podigee.io/1740-der-perfekte-etf-entsparplan-und-schaefflers-bittere-abrechnung
+- Ohne Aktien wird's schwer (Podstars): Zalando wird KI-Shopper. AMD, Taiwan-Aktien, Midterm-Wahlen, Shopify &amp; traurige Hedgefonds (Beschreibung) (04.11.2026, 03:00) https://pdst.fm/e/traffic.megaphone.fm/PDS5898152498.mp3
+- Trending Topics Tech Talk: „Wait for the AI Bubble to Burst, Then Buy Everything at 90% Off“ (Cory Doctorow) (Beschreibung) (04.11.2026, 05:00) Feed: https://api.riverside.com/hosting/uw69nfsF.rss
+- Trending Topics Tech Talk: Tumbleweed holt 6,9 Mio. Euro (Beschreibung) (03.11.2026, 08:45) Feed: https://api.riverside.com/hosting/uw69nfsF.rss
+- kurz informiert (heise online): Kurz informiert 04.11.2026 – früh – eigenes Transkript, Artikel heise.de/-11509430, -11509124, -11510056 (04.11.2026, 05:30) https://kurzinformiert.podigee.io/3006-kurz-informiert-04-11-2026-fruh
+- KI-Update (heise online): KI-Update kompakt: Linux-Lücke, Audio Intelligence, KI-Operation, KI-Satellit (Begleitartikel heise.de/-11507948; nur neue Punkte OpenAI/Nvidia) (02.11.2026, 15:00) https://kiupdate.podigee.io/680-02-11-2026
+- The 404 Media Podcast: keine neue Folge (letzte vom 02.11. wurde gestern behandelt) (–) Feed: https://feeds.megaphone.fm/TBIEA2761282490
+- Wetter: Open-Meteo Prognose Bad Ischl (47.71 N, 13.62 E), abgerufen 04.11.2026 06:30: jetzt 4,0 °C, heute 3,3–10,5 °C, morgen 5,9–13,6 °C (04.11.2026) https://api.open-meteo.com</itunes:summary>
+      <enclosure url="https://spencer-at.github.io/schani-podcast-fc13f351/episodes/2026-11-04.mp3" length="3891325" type="audio/mpeg"/>
+      <guid isPermaLink="false">schani-podcast-2026-11-04</guid>
+      <pubDate>Wed, 04 Nov 2026 07:00:00 +0100</pubDate>
+      <itunes:duration>389</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Dienstag, 3. November 2026</title>
       <description>Schanis Morgenüberblick für Dienstag, 3. November 2026: erst Österreich und die Welt, dann Finanzen, dann Tech und KI. Gekürzt und nacherzählt aus echten Podcast-Folgen, nichts dazugedichtet. Keine Anlageempfehlung.
