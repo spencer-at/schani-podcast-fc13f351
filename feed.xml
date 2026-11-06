@@ -6,7 +6,7 @@
     <atom:link href="https://spencer-at.github.io/schani-podcast-fc13f351/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Privater Morgenüberblick für Wolfgang: Österreich und die Welt, Finanzen, Tech und KI. Nicht öffentlich gelistet.</description>
     <language>de-at</language>
-    <lastBuildDate>Thu, 05 Nov 2026 15:56:57 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 16:53:46 +0100</lastBuildDate>
     <itunes:author>Schani</itunes:author>
     <itunes:owner><itunes:name>Schani</itunes:name></itunes:owner>
     <itunes:image href="https://spencer-at.github.io/schani-podcast-fc13f351/cover.jpg"/>
@@ -15,6 +15,45 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>yes</itunes:block>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Freitag, 6. November 2026</title>
+      <description>Schanis Morgenüberblick für Freitag, 6. November 2026: erst Österreich und die Welt, dann Finanzen, dann Tech und KI. Gekürzt und nacherzählt aus echten Podcast-Folgen, nichts dazugedichtet. Keine Anlageempfehlung.
+
+Quellen:
+- Podcast / Quelle: Folge / Artikel (Datum (Wiener Zeit)) Link
+- Ö1 Journale (ORF): Frühjournal um 6 (06.11.2026) – eigenes Transkript (06.11.2026, 06:15) https://sound.orf.at/podcast/oe1/oe1-journale/fruehjournal-um-6-06112026
+- Der Standard – Thema des Tages: Ex-Verfassungsschützer: Extremismus ist massiv im Kommen \ (Omar Haijawi-Pirchner (Beschreibung)) 06.11.2026, 05:30
+- Alles auf Aktien (WELT): Erschütterndes Big-Tech-Beben und die große Rheinmetall-Frage – eigenes Transkript (06.11.2026, 04:45) https://allesaufaktien.podigee.io/1742-erschutterndes-big-tech-beben-und-die-grosse-rheinmetall-frage
+- Ohne Aktien wird's schwer (Podstars): Tech-Aktien stürzen ab. Rheinmetall senkt Prognose… (Beschreibung) (06.11.2026, 03:00) https://pdst.fm/e/traffic.megaphone.fm/PDS2915226988.mp3
+- Trending Topics Tech Talk: Platzt jetzt der Anthropic IPO? Wasner + Steinschaden #30 (Beschreibung) (05.11.2026, 17:58) Feed: https://api.riverside.com/hosting/uw69nfsF.rss
+- kurz informiert (heise online): früh 06.11.2026 – eigenes Transkript (06.11.2026, 05:30) https://kurzinformiert.podigee.io/3010-kurz-informiert-06-11-2026-fruh
+- kurz informiert (heise online): spät 06.11.2026 – eigenes Transkript (06.11.2026, 15:00) https://kurzinformiert.podigee.io/3011-kurz-informiert-06-11-2026-spat
+- KI-Update (heise online): Deep-Dive: Wie Mistral mit ML4 im KI-Rennen aufholen will (Beschreibung) (06.11.2026, 15:00) https://kiupdate.podigee.io/682-06-11-2026
+- The 404 Media Podcast: Inside Proton's AI Reckoning (nur Beschreibung; keine neuere Folge im 48h-Fenster) (04.11.2026, 12:00) Feed: https://feeds.megaphone.fm/TBIEA2761282490
+- Wetter Santa Monica: National Weather Service (api.weather.gov, Gitter LOX 146,45), abgerufen 06.11.2026 ~07:42 PST: heute 80 °F = 27 °C, Nacht 63 °F = 17 °C, Sa 81 °F = 27 °C, So 83 °F = 28 °C, sonnig (06.11.2026) https://api.weather.gov/gridpoints/LOX/146,45/forecast
+- L.A.-Nachrichten: KTLA: Santa Ana winds / fire danger / possible power shutoffs; LA Times: heat wave + Santa Anas; LAist/LA Times: coyote on 101 wildlife crossing; LAist: Measure FD sales tax 10.25→10.75% for firefighting (Feeds abgerufen 06.11.2026) (05./06.11.2026) https://ktla.com/news/california/southern-california-santa-ana-winds-wildfire-risk/ ; https://www.latimes.com/california/story/2026-11-05/with-heat-wave-coming-santa-ana-wind-fire-risks-return-to-socal ; https://laist.com/news/climate-environment/coyote-becomes-first-mammal-seen-using-101-wildlife-crossing-this-is-amazing ; https://laist.com/news/politics/voters-have-chosen-to-increase-las-sales-tax-heres-how-it-compares-to-other-cities</description>
+      <itunes:summary>Schanis Morgenüberblick für Freitag, 6. November 2026: erst Österreich und die Welt, dann Finanzen, dann Tech und KI. Gekürzt und nacherzählt aus echten Podcast-Folgen, nichts dazugedichtet. Keine Anlageempfehlung.
+
+Quellen:
+- Podcast / Quelle: Folge / Artikel (Datum (Wiener Zeit)) Link
+- Ö1 Journale (ORF): Frühjournal um 6 (06.11.2026) – eigenes Transkript (06.11.2026, 06:15) https://sound.orf.at/podcast/oe1/oe1-journale/fruehjournal-um-6-06112026
+- Der Standard – Thema des Tages: Ex-Verfassungsschützer: Extremismus ist massiv im Kommen \ (Omar Haijawi-Pirchner (Beschreibung)) 06.11.2026, 05:30
+- Alles auf Aktien (WELT): Erschütterndes Big-Tech-Beben und die große Rheinmetall-Frage – eigenes Transkript (06.11.2026, 04:45) https://allesaufaktien.podigee.io/1742-erschutterndes-big-tech-beben-und-die-grosse-rheinmetall-frage
+- Ohne Aktien wird's schwer (Podstars): Tech-Aktien stürzen ab. Rheinmetall senkt Prognose… (Beschreibung) (06.11.2026, 03:00) https://pdst.fm/e/traffic.megaphone.fm/PDS2915226988.mp3
+- Trending Topics Tech Talk: Platzt jetzt der Anthropic IPO? Wasner + Steinschaden #30 (Beschreibung) (05.11.2026, 17:58) Feed: https://api.riverside.com/hosting/uw69nfsF.rss
+- kurz informiert (heise online): früh 06.11.2026 – eigenes Transkript (06.11.2026, 05:30) https://kurzinformiert.podigee.io/3010-kurz-informiert-06-11-2026-fruh
+- kurz informiert (heise online): spät 06.11.2026 – eigenes Transkript (06.11.2026, 15:00) https://kurzinformiert.podigee.io/3011-kurz-informiert-06-11-2026-spat
+- KI-Update (heise online): Deep-Dive: Wie Mistral mit ML4 im KI-Rennen aufholen will (Beschreibung) (06.11.2026, 15:00) https://kiupdate.podigee.io/682-06-11-2026
+- The 404 Media Podcast: Inside Proton's AI Reckoning (nur Beschreibung; keine neuere Folge im 48h-Fenster) (04.11.2026, 12:00) Feed: https://feeds.megaphone.fm/TBIEA2761282490
+- Wetter Santa Monica: National Weather Service (api.weather.gov, Gitter LOX 146,45), abgerufen 06.11.2026 ~07:42 PST: heute 80 °F = 27 °C, Nacht 63 °F = 17 °C, Sa 81 °F = 27 °C, So 83 °F = 28 °C, sonnig (06.11.2026) https://api.weather.gov/gridpoints/LOX/146,45/forecast
+- L.A.-Nachrichten: KTLA: Santa Ana winds / fire danger / possible power shutoffs; LA Times: heat wave + Santa Anas; LAist/LA Times: coyote on 101 wildlife crossing; LAist: Measure FD sales tax 10.25→10.75% for firefighting (Feeds abgerufen 06.11.2026) (05./06.11.2026) https://ktla.com/news/california/southern-california-santa-ana-winds-wildfire-risk/ ; https://www.latimes.com/california/story/2026-11-05/with-heat-wave-coming-santa-ana-wind-fire-risks-return-to-socal ; https://laist.com/news/climate-environment/coyote-becomes-first-mammal-seen-using-101-wildlife-crossing-this-is-amazing ; https://laist.com/news/politics/voters-have-chosen-to-increase-las-sales-tax-heres-how-it-compares-to-other-cities</itunes:summary>
+      <enclosure url="https://spencer-at.github.io/schani-podcast-fc13f351/episodes/2026-11-06.mp3" length="3707945" type="audio/mpeg"/>
+      <guid isPermaLink="false">schani-podcast-2026-11-06</guid>
+      <pubDate>Fri, 06 Nov 2026 07:00:00 +0100</pubDate>
+      <itunes:duration>371</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Donnerstag, 5. November 2026</title>
       <description>Schanis Morgenüberblick für Donnerstag, 5. November 2026: erst Österreich und die Welt, dann Finanzen, dann Tech und KI. Gekürzt und nacherzählt aus echten Podcast-Folgen, nichts dazugedichtet. Keine Anlageempfehlung.
