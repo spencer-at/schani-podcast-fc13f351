@@ -6,7 +6,7 @@
     <atom:link href="https://spencer-at.github.io/schani-podcast-fc13f351/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Privater Morgenüberblick für Wolfgang: Österreich und die Welt, Finanzen, Tech und KI. Nicht öffentlich gelistet.</description>
     <language>de-at</language>
-    <lastBuildDate>Fri, 06 Nov 2026 16:53:46 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 15:55:26 +0100</lastBuildDate>
     <itunes:author>Schani</itunes:author>
     <itunes:owner><itunes:name>Schani</itunes:name></itunes:owner>
     <itunes:image href="https://spencer-at.github.io/schani-podcast-fc13f351/cover.jpg"/>
@@ -15,6 +15,43 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>yes</itunes:block>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Samstag, 7. November 2026</title>
+      <description>Schanis Morgenüberblick für Samstag, 7. November 2026: erst Österreich und die Welt, dann Finanzen, dann Tech und KI. Gekürzt und nacherzählt aus echten Podcast-Folgen, nichts dazugedichtet. Keine Anlageempfehlung.
+
+Quellen:
+- Podcast / Quelle: Folge / Artikel (Datum (Wiener Zeit)) Link
+- Ö1 Journale (ORF): Morgenjournal um 7 (07.11.2026) – eigenes Transkript (Samstag, kein Frühjournal) (07.11.2026, 07:41) https://sound.orf.at/podcast/oe1/oe1-journale/morgenjournal-um-7-07112026
+- Der Standard – Thema des Tages: keine neue Folge seit 06.11. 05:30 (–) https://themadestages.podigee.io
+- Alles auf Aktien (WELT): Der Börsen-Mathematiker entschlüsselt den KI-Crash – eigenes Transkript (erste 12 Min.) + Beschreibung (07.11.2026, 04:59) https://allesaufaktien.podigee.io/b1743-der-borsen-mathematiker-entschlusselt-den-ki-crash
+- Ohne Aktien wird's schwer (Podstars): KI-Agenten, Europa-Cloud &amp; Übernahmepläne. IONOS-CFO Patrik Heider (Beschreibung) (07.11.2026, 03:00) https://pdst.fm/e/traffic.megaphone.fm/PDS5625983221.mp3
+- Trending Topics Tech Talk: keine neue Folge seit 05.11. (–) Feed: https://api.riverside.com/hosting/uw69nfsF.rss
+- heise kurz informiert / KI-Update: keine Samstagsfolgen; letzte 06.11. (–) https://kurzinformiert.podigee.io
+- The 404 Media Podcast: keine Folge im 48h-Fenster (–) Feed: https://feeds.megaphone.fm/TBIEA2761282490
+- Wetter Santa Monica: NWS api.weather.gov LOX 146,45, abgerufen 07.11. ~06:45 PST: heute 81 °F = 27 °C sonnig, Nacht 61 °F = 16 °C, So 84 °F = 29 °C (07.11.2026) https://api.weather.gov/gridpoints/LOX/146,45/forecast
+- Wetter San Francisco: NWS MTR 85,106: heute 68 °F = 20 °C meist sonnig, Nacht 55 °F = 13 °C (07.11.2026) https://api.weather.gov/gridpoints/MTR/85,106/forecast
+- L.A.-Nachrichten: LAist: Raman defeats Bass / council colleagues; KTLA: atmospheric river 11.–17.11.; LA Times: $11.4M Nvidia cargo stolen in Oakland (06./07.11.2026) https://laist.com/news/politics/mayor-elect-nithya-raman-council-colleagues-cooperation ; https://ktla.com/news/california/atmospheric-river-heavy-rain-still-possible-for-southern-california-next-week/ ; https://www.latimes.com/california/story/2026-11-06/11-million-in-nvidia-cargo-reportedly-stolen-in-oakland-heist</description>
+      <itunes:summary>Schanis Morgenüberblick für Samstag, 7. November 2026: erst Österreich und die Welt, dann Finanzen, dann Tech und KI. Gekürzt und nacherzählt aus echten Podcast-Folgen, nichts dazugedichtet. Keine Anlageempfehlung.
+
+Quellen:
+- Podcast / Quelle: Folge / Artikel (Datum (Wiener Zeit)) Link
+- Ö1 Journale (ORF): Morgenjournal um 7 (07.11.2026) – eigenes Transkript (Samstag, kein Frühjournal) (07.11.2026, 07:41) https://sound.orf.at/podcast/oe1/oe1-journale/morgenjournal-um-7-07112026
+- Der Standard – Thema des Tages: keine neue Folge seit 06.11. 05:30 (–) https://themadestages.podigee.io
+- Alles auf Aktien (WELT): Der Börsen-Mathematiker entschlüsselt den KI-Crash – eigenes Transkript (erste 12 Min.) + Beschreibung (07.11.2026, 04:59) https://allesaufaktien.podigee.io/b1743-der-borsen-mathematiker-entschlusselt-den-ki-crash
+- Ohne Aktien wird's schwer (Podstars): KI-Agenten, Europa-Cloud &amp; Übernahmepläne. IONOS-CFO Patrik Heider (Beschreibung) (07.11.2026, 03:00) https://pdst.fm/e/traffic.megaphone.fm/PDS5625983221.mp3
+- Trending Topics Tech Talk: keine neue Folge seit 05.11. (–) Feed: https://api.riverside.com/hosting/uw69nfsF.rss
+- heise kurz informiert / KI-Update: keine Samstagsfolgen; letzte 06.11. (–) https://kurzinformiert.podigee.io
+- The 404 Media Podcast: keine Folge im 48h-Fenster (–) Feed: https://feeds.megaphone.fm/TBIEA2761282490
+- Wetter Santa Monica: NWS api.weather.gov LOX 146,45, abgerufen 07.11. ~06:45 PST: heute 81 °F = 27 °C sonnig, Nacht 61 °F = 16 °C, So 84 °F = 29 °C (07.11.2026) https://api.weather.gov/gridpoints/LOX/146,45/forecast
+- Wetter San Francisco: NWS MTR 85,106: heute 68 °F = 20 °C meist sonnig, Nacht 55 °F = 13 °C (07.11.2026) https://api.weather.gov/gridpoints/MTR/85,106/forecast
+- L.A.-Nachrichten: LAist: Raman defeats Bass / council colleagues; KTLA: atmospheric river 11.–17.11.; LA Times: $11.4M Nvidia cargo stolen in Oakland (06./07.11.2026) https://laist.com/news/politics/mayor-elect-nithya-raman-council-colleagues-cooperation ; https://ktla.com/news/california/atmospheric-river-heavy-rain-still-possible-for-southern-california-next-week/ ; https://www.latimes.com/california/story/2026-11-06/11-million-in-nvidia-cargo-reportedly-stolen-in-oakland-heist</itunes:summary>
+      <enclosure url="https://spencer-at.github.io/schani-podcast-fc13f351/episodes/2026-11-07.mp3" length="3207178" type="audio/mpeg"/>
+      <guid isPermaLink="false">schani-podcast-2026-11-07</guid>
+      <pubDate>Sat, 07 Nov 2026 07:00:00 +0100</pubDate>
+      <itunes:duration>321</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Freitag, 6. November 2026</title>
       <description>Schanis Morgenüberblick für Freitag, 6. November 2026: erst Österreich und die Welt, dann Finanzen, dann Tech und KI. Gekürzt und nacherzählt aus echten Podcast-Folgen, nichts dazugedichtet. Keine Anlageempfehlung.
