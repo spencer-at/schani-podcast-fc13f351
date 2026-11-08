@@ -6,7 +6,7 @@
     <atom:link href="https://spencer-at.github.io/schani-podcast-fc13f351/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Privater Morgenüberblick für Wolfgang: Österreich und die Welt, Finanzen, Tech und KI. Nicht öffentlich gelistet.</description>
     <language>de-at</language>
-    <lastBuildDate>Sat, 07 Nov 2026 15:55:26 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 15:39:37 +0100</lastBuildDate>
     <itunes:author>Schani</itunes:author>
     <itunes:owner><itunes:name>Schani</itunes:name></itunes:owner>
     <itunes:image href="https://spencer-at.github.io/schani-podcast-fc13f351/cover.jpg"/>
@@ -15,6 +15,39 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>yes</itunes:block>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Sonntag, 8. November 2026</title>
+      <description>Schanis Morgenüberblick für Sonntag, 8. November 2026: erst Österreich und die Welt, dann Finanzen, dann Tech und KI. Gekürzt und nacherzählt aus echten Podcast-Folgen, nichts dazugedichtet. Keine Anlageempfehlung.
+
+Quellen:
+- Podcast / Quelle: Folge / Artikel (Datum (Wiener Zeit)) Link
+- Ö1 Journale (ORF): Morgenjournal um 8 (08.11.2026) – eigenes Transkript (Sonntag, kein Frühjournal) (08.11.2026, 08:16) https://sound.orf.at/podcast/oe1/oe1-journale/morgenjournal-um-8-08112026
+- DER STANDARD (Feed „Thema des Tages“): AZB-Chefin Vollmann: „Von Gender-Budgeting sind wir weit entfernt“ – CEO-Podcast (Beschreibung) (08.11.2026, 08:00) https://themadestages.podigee.io/1957-azb-chefin-vollmann-von-gender-budgeting-sind-wir-weit-entfernt-ceo
+- Alles auf Aktien / Ohne Aktien wird's schwer / Trending Topics: keine neuen Folgen seit 07.11. früh (bereits gestern verwendet) (–) –
+- heise kurz informiert / KI-Update, 404 Media Podcast: keine Folgen im 48h-Fenster (–) –
+- CyberWire Daily (Ersatzquelle Technik): Keeping cyber threats on ice. (Shownotes: SecurityWeek GPT-6 Cyber, Bleeping Computer Chainalysis, SecurityWeek DigiCert, 404 Media Meta) (06.11.2026, 22:30) https://www.thecyberwire.com/podcasts/daily-podcast/2673/notes
+- Wetter San Francisco: NWS MTR 85,106, abgerufen 08.11. ~06:35 PST: heute 67 °F ≈ 19 °C teils sonnig, nachmittags ~64 °F ≈ 18 °C, Nacht 56 °F ≈ 13 °C (08.11.2026) https://api.weather.gov/gridpoints/MTR/85,106/forecast
+- Wetter Santa Monica: NWS LOX 146,45: Sonntag 81 °F ≈ 27 °C sonnig, Nacht 60 °F ≈ 16 °C (08.11.2026) https://api.weather.gov/gridpoints/LOX/146,45/forecast
+- Bay-Area-Nachrichten: SF Standard: Lurie fires innovation office staff; ABC7: Great America closes Labor Day 2027; ABC7: Jane Kim declares victory (07./08.11.2026) https://sfstandard.com/2026/11/07/lurie-fires-innovation-office-staff-bloomberg-grant/ ; https://abc7news.com/post/californias-great-america-santa-clara-will-close-labor-day-2027-theme-park-announces/20023189/ ; https://abc7news.com/post/california-election-jane-kim-declares-victory-insurance-commissioner-race-vows-wildfire-overhaul/20021703/</description>
+      <itunes:summary>Schanis Morgenüberblick für Sonntag, 8. November 2026: erst Österreich und die Welt, dann Finanzen, dann Tech und KI. Gekürzt und nacherzählt aus echten Podcast-Folgen, nichts dazugedichtet. Keine Anlageempfehlung.
+
+Quellen:
+- Podcast / Quelle: Folge / Artikel (Datum (Wiener Zeit)) Link
+- Ö1 Journale (ORF): Morgenjournal um 8 (08.11.2026) – eigenes Transkript (Sonntag, kein Frühjournal) (08.11.2026, 08:16) https://sound.orf.at/podcast/oe1/oe1-journale/morgenjournal-um-8-08112026
+- DER STANDARD (Feed „Thema des Tages“): AZB-Chefin Vollmann: „Von Gender-Budgeting sind wir weit entfernt“ – CEO-Podcast (Beschreibung) (08.11.2026, 08:00) https://themadestages.podigee.io/1957-azb-chefin-vollmann-von-gender-budgeting-sind-wir-weit-entfernt-ceo
+- Alles auf Aktien / Ohne Aktien wird's schwer / Trending Topics: keine neuen Folgen seit 07.11. früh (bereits gestern verwendet) (–) –
+- heise kurz informiert / KI-Update, 404 Media Podcast: keine Folgen im 48h-Fenster (–) –
+- CyberWire Daily (Ersatzquelle Technik): Keeping cyber threats on ice. (Shownotes: SecurityWeek GPT-6 Cyber, Bleeping Computer Chainalysis, SecurityWeek DigiCert, 404 Media Meta) (06.11.2026, 22:30) https://www.thecyberwire.com/podcasts/daily-podcast/2673/notes
+- Wetter San Francisco: NWS MTR 85,106, abgerufen 08.11. ~06:35 PST: heute 67 °F ≈ 19 °C teils sonnig, nachmittags ~64 °F ≈ 18 °C, Nacht 56 °F ≈ 13 °C (08.11.2026) https://api.weather.gov/gridpoints/MTR/85,106/forecast
+- Wetter Santa Monica: NWS LOX 146,45: Sonntag 81 °F ≈ 27 °C sonnig, Nacht 60 °F ≈ 16 °C (08.11.2026) https://api.weather.gov/gridpoints/LOX/146,45/forecast
+- Bay-Area-Nachrichten: SF Standard: Lurie fires innovation office staff; ABC7: Great America closes Labor Day 2027; ABC7: Jane Kim declares victory (07./08.11.2026) https://sfstandard.com/2026/11/07/lurie-fires-innovation-office-staff-bloomberg-grant/ ; https://abc7news.com/post/californias-great-america-santa-clara-will-close-labor-day-2027-theme-park-announces/20023189/ ; https://abc7news.com/post/california-election-jane-kim-declares-victory-insurance-commissioner-race-vows-wildfire-overhaul/20021703/</itunes:summary>
+      <enclosure url="https://spencer-at.github.io/schani-podcast-fc13f351/episodes/2026-11-08.mp3" length="3067945" type="audio/mpeg"/>
+      <guid isPermaLink="false">schani-podcast-2026-11-08</guid>
+      <pubDate>Sun, 08 Nov 2026 07:00:00 +0100</pubDate>
+      <itunes:duration>307</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Samstag, 7. November 2026</title>
       <description>Schanis Morgenüberblick für Samstag, 7. November 2026: erst Österreich und die Welt, dann Finanzen, dann Tech und KI. Gekürzt und nacherzählt aus echten Podcast-Folgen, nichts dazugedichtet. Keine Anlageempfehlung.
