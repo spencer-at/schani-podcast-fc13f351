@@ -6,7 +6,7 @@
     <atom:link href="https://spencer-at.github.io/schani-podcast-fc13f351/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Privater Morgenüberblick für Wolfgang: Österreich und die Welt, Finanzen, Tech und KI. Nicht öffentlich gelistet.</description>
     <language>de-at</language>
-    <lastBuildDate>Sun, 08 Nov 2026 15:39:37 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 15:43:54 +0100</lastBuildDate>
     <itunes:author>Schani</itunes:author>
     <itunes:owner><itunes:name>Schani</itunes:name></itunes:owner>
     <itunes:image href="https://spencer-at.github.io/schani-podcast-fc13f351/cover.jpg"/>
@@ -15,6 +15,45 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>yes</itunes:block>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Montag, 9. November 2026</title>
+      <description>Schanis Morgenüberblick für Montag, 9. November 2026: erst Österreich und die Welt, dann Finanzen, dann Tech und KI. Gekürzt und nacherzählt aus echten Podcast-Folgen, nichts dazugedichtet. Keine Anlageempfehlung.
+
+Quellen:
+- Podcast / Quelle: Folge / Artikel (Datum) Link
+- Ö1 Journale (ORF): Frühjournal um 6 (09.11.2026) – eigenes Transkript (erste 15 Min.) (09.11.2026, 06:17 Wien) https://sound.orf.at/podcast/oe1/oe1-journale/fruehjournal-um-6-09112026
+- DER STANDARD Thema des Tages: Trumps Endspiel: Wie gefährlich werden seine letzten Jahre? (Beschreibung) (09.11.2026, 05:30 Wien) https://themadestages.podigee.io/1961-trumps-endspiel-wie-gefahrlich-werden-seine-letzten-jahre-sandra-navidi-reinhard-heinisch
+- Alles auf Aktien (WELT): Die unheilvolle Nvidia-Affäre und 3 Lehren aus dem Börsenbeben – eigenes Transkript (erste 12 Min.) (09.11.2026, 04:45 Wien) https://allesaufaktien.podigee.io/1743-die-unheilvolle-nvidia-affare-und-3-lehren-aus-dem-borsenbeben
+- Ohne Aktien wird's schwer: Macht Anthropic den Börsengang? Airbnb boomt, Berkshire kauft zurück … (Beschreibung) (09.11.2026, 03:00 Wien) https://feeds.megaphone.fm/PDS3666998460
+- Trending Topics Tech Talk: keine Folge im 48h-Fenster (–) –
+- heise KI-Update: KI-Update kompakt: Rechenzentren, Propaganda, Siri AI, Minecraft (Begleitartikel) (09.11.2026) https://heise.de/-11515563
+- heise kurz informiert: 09.11.2026 – spät; Artikel „Jensen Huang gesteht Affäre ein“ (09.11.2026) https://kurzinformiert.podigee.io/3013-kurz-informiert-09-11-2026-spat ; https://heise.de/-11516757
+- The 404 Media Podcast: Why Is the Internet So Afraid of Sex? (Beschreibung) (09.11.2026, 03:00 PST) https://feeds.megaphone.fm/TBIEA2761282490
+- Wetter Santa Monica: NWS LOX 146,45, abgerufen 09.11. ~06:45 PST: heute 80 °F ≈ 27 °C meist sonnig, Nacht 62 °F ≈ 17 °C, Di 82 °F ≈ 28 °C (09.11.2026) https://api.weather.gov/gridpoints/LOX/146,45/forecast
+- Wetter Salzkammergut: Ö1 Frühjournal: Föhn, bis 14 °C im Salzkammergut (09.11.2026) (Frühjournal)
+- LA-Nachrichten: LAist: Prop. 45 abgelehnt; Boyle Heights / White Memorial ICE-Protest; Naples Boat Parade wegen El Niño abgesagt (07.–09.11.2026) https://laist.com/</description>
+      <itunes:summary>Schanis Morgenüberblick für Montag, 9. November 2026: erst Österreich und die Welt, dann Finanzen, dann Tech und KI. Gekürzt und nacherzählt aus echten Podcast-Folgen, nichts dazugedichtet. Keine Anlageempfehlung.
+
+Quellen:
+- Podcast / Quelle: Folge / Artikel (Datum) Link
+- Ö1 Journale (ORF): Frühjournal um 6 (09.11.2026) – eigenes Transkript (erste 15 Min.) (09.11.2026, 06:17 Wien) https://sound.orf.at/podcast/oe1/oe1-journale/fruehjournal-um-6-09112026
+- DER STANDARD Thema des Tages: Trumps Endspiel: Wie gefährlich werden seine letzten Jahre? (Beschreibung) (09.11.2026, 05:30 Wien) https://themadestages.podigee.io/1961-trumps-endspiel-wie-gefahrlich-werden-seine-letzten-jahre-sandra-navidi-reinhard-heinisch
+- Alles auf Aktien (WELT): Die unheilvolle Nvidia-Affäre und 3 Lehren aus dem Börsenbeben – eigenes Transkript (erste 12 Min.) (09.11.2026, 04:45 Wien) https://allesaufaktien.podigee.io/1743-die-unheilvolle-nvidia-affare-und-3-lehren-aus-dem-borsenbeben
+- Ohne Aktien wird's schwer: Macht Anthropic den Börsengang? Airbnb boomt, Berkshire kauft zurück … (Beschreibung) (09.11.2026, 03:00 Wien) https://feeds.megaphone.fm/PDS3666998460
+- Trending Topics Tech Talk: keine Folge im 48h-Fenster (–) –
+- heise KI-Update: KI-Update kompakt: Rechenzentren, Propaganda, Siri AI, Minecraft (Begleitartikel) (09.11.2026) https://heise.de/-11515563
+- heise kurz informiert: 09.11.2026 – spät; Artikel „Jensen Huang gesteht Affäre ein“ (09.11.2026) https://kurzinformiert.podigee.io/3013-kurz-informiert-09-11-2026-spat ; https://heise.de/-11516757
+- The 404 Media Podcast: Why Is the Internet So Afraid of Sex? (Beschreibung) (09.11.2026, 03:00 PST) https://feeds.megaphone.fm/TBIEA2761282490
+- Wetter Santa Monica: NWS LOX 146,45, abgerufen 09.11. ~06:45 PST: heute 80 °F ≈ 27 °C meist sonnig, Nacht 62 °F ≈ 17 °C, Di 82 °F ≈ 28 °C (09.11.2026) https://api.weather.gov/gridpoints/LOX/146,45/forecast
+- Wetter Salzkammergut: Ö1 Frühjournal: Föhn, bis 14 °C im Salzkammergut (09.11.2026) (Frühjournal)
+- LA-Nachrichten: LAist: Prop. 45 abgelehnt; Boyle Heights / White Memorial ICE-Protest; Naples Boat Parade wegen El Niño abgesagt (07.–09.11.2026) https://laist.com/</itunes:summary>
+      <enclosure url="https://spencer-at.github.io/schani-podcast-fc13f351/episodes/2026-11-09.mp3" length="3805382" type="audio/mpeg"/>
+      <guid isPermaLink="false">schani-podcast-2026-11-09</guid>
+      <pubDate>Mon, 09 Nov 2026 07:00:00 +0100</pubDate>
+      <itunes:duration>380</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Sonntag, 8. November 2026</title>
       <description>Schanis Morgenüberblick für Sonntag, 8. November 2026: erst Österreich und die Welt, dann Finanzen, dann Tech und KI. Gekürzt und nacherzählt aus echten Podcast-Folgen, nichts dazugedichtet. Keine Anlageempfehlung.
