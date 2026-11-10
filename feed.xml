@@ -6,7 +6,7 @@
     <atom:link href="https://spencer-at.github.io/schani-podcast-fc13f351/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Privater Morgenüberblick für Wolfgang: Österreich und die Welt, Finanzen, Tech und KI. Nicht öffentlich gelistet.</description>
     <language>de-at</language>
-    <lastBuildDate>Mon, 09 Nov 2026 15:43:54 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 15:43:42 +0100</lastBuildDate>
     <itunes:author>Schani</itunes:author>
     <itunes:owner><itunes:name>Schani</itunes:name></itunes:owner>
     <itunes:image href="https://spencer-at.github.io/schani-podcast-fc13f351/cover.jpg"/>
@@ -15,6 +15,45 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>yes</itunes:block>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Dienstag, 10. November 2026</title>
+      <description>Schanis Morgenüberblick für Dienstag, 10. November 2026: erst Österreich und die Welt, dann Finanzen, dann Tech und KI. Gekürzt und nacherzählt aus echten Podcast-Folgen, nichts dazugedichtet. Keine Anlageempfehlung.
+
+Quellen:
+- Podcast / Quelle: Folge / Artikel (Datum) Link
+- Ö1 Journale (ORF): Frühjournal um 6 (10.11.2026) – eigenes Transkript (erste 15 Min.) (10.11.2026, 06:16 Wien) https://sound.orf.at/podcast/oe1/oe1-journale/fruehjournal-um-6-10112026
+- DER STANDARD Thema des Tages: Affäre mit Agentin: Der Spionage-Skandal von Nvidia (Beschreibung) (10.11.2026, 11:04 Wien) https://themadestages.podigee.io/1963-affare-mit-agentin-der-spionage-skandal-von-nvidia
+- Alles auf Aktien (WELT): 3 Szenarien für Nvidia und die vergessene Jahrhundertaktie – eigenes Transkript (erste 12 Min.) (10.11.2026, 04:45 Wien) https://allesaufaktien.podigee.io/1744-3-szenarien-fur-nvidia-und-die-vergessene-jahrhundertaktie
+- Ohne Aktien wird's schwer: NVIDIA-Spionage-Skandal, Bohrschiff vorm Superzyklus, Norwegian Cruise in Krise (Beschreibung) (10.11.2026, 03:00 Wien) https://feeds.megaphone.fm/PDS3666998460
+- Trending Topics Tech Talk: „Bei der Dampfmaschine hatte man auch keine Ahnung, dass das zur Eisenbahn führt“ (Beschreibung) (10.11.2026, 03:00 Wien) https://api.riverside.com/hosting/uw69nfsF.rss
+- heise KI-Update: keine neue Folge seit 09.11. (bereits gestern verwendet) (–) –
+- heise kurz informiert: 10.11.2026 – früh/spät; Artikel KI-Regulierung (Macron), Microsoft-Rechenzentrumsverträge, Binance-Diebstahl (10.11.2026) https://heise.de/-11518762 ; https://heise.de/-11517608 ; https://heise.de/-11518120
+- The 404 Media Podcast: keine neue Folge seit 09.11. (–) –
+- Wetter Santa Monica: NWS LOX 146,45, Update 10.11. 01:01 PST: heute 82 °F ≈ 28 °C sonnig, Nacht 62 °F ≈ 17 °C, Veterans Day 84 °F ≈ 29 °C (10.11.2026) https://api.weather.gov/gridpoints/LOX/146,45/forecast
+- Wetter Salzburg: Ö1 Frühjournal: Salzburg 7 °C und Regen, Regen im Norden Salzburgs und in OÖ (10.11.2026) (Frühjournal)
+- LA-Nachrichten: LAist: LAHSA fährt Computer wegen möglichem Cyberangriff herunter; Horvath kandidiert als County-CEO; LAUSD prüft Googles KI-Vorgabe (10.11.2026) https://laist.com/</description>
+      <itunes:summary>Schanis Morgenüberblick für Dienstag, 10. November 2026: erst Österreich und die Welt, dann Finanzen, dann Tech und KI. Gekürzt und nacherzählt aus echten Podcast-Folgen, nichts dazugedichtet. Keine Anlageempfehlung.
+
+Quellen:
+- Podcast / Quelle: Folge / Artikel (Datum) Link
+- Ö1 Journale (ORF): Frühjournal um 6 (10.11.2026) – eigenes Transkript (erste 15 Min.) (10.11.2026, 06:16 Wien) https://sound.orf.at/podcast/oe1/oe1-journale/fruehjournal-um-6-10112026
+- DER STANDARD Thema des Tages: Affäre mit Agentin: Der Spionage-Skandal von Nvidia (Beschreibung) (10.11.2026, 11:04 Wien) https://themadestages.podigee.io/1963-affare-mit-agentin-der-spionage-skandal-von-nvidia
+- Alles auf Aktien (WELT): 3 Szenarien für Nvidia und die vergessene Jahrhundertaktie – eigenes Transkript (erste 12 Min.) (10.11.2026, 04:45 Wien) https://allesaufaktien.podigee.io/1744-3-szenarien-fur-nvidia-und-die-vergessene-jahrhundertaktie
+- Ohne Aktien wird's schwer: NVIDIA-Spionage-Skandal, Bohrschiff vorm Superzyklus, Norwegian Cruise in Krise (Beschreibung) (10.11.2026, 03:00 Wien) https://feeds.megaphone.fm/PDS3666998460
+- Trending Topics Tech Talk: „Bei der Dampfmaschine hatte man auch keine Ahnung, dass das zur Eisenbahn führt“ (Beschreibung) (10.11.2026, 03:00 Wien) https://api.riverside.com/hosting/uw69nfsF.rss
+- heise KI-Update: keine neue Folge seit 09.11. (bereits gestern verwendet) (–) –
+- heise kurz informiert: 10.11.2026 – früh/spät; Artikel KI-Regulierung (Macron), Microsoft-Rechenzentrumsverträge, Binance-Diebstahl (10.11.2026) https://heise.de/-11518762 ; https://heise.de/-11517608 ; https://heise.de/-11518120
+- The 404 Media Podcast: keine neue Folge seit 09.11. (–) –
+- Wetter Santa Monica: NWS LOX 146,45, Update 10.11. 01:01 PST: heute 82 °F ≈ 28 °C sonnig, Nacht 62 °F ≈ 17 °C, Veterans Day 84 °F ≈ 29 °C (10.11.2026) https://api.weather.gov/gridpoints/LOX/146,45/forecast
+- Wetter Salzburg: Ö1 Frühjournal: Salzburg 7 °C und Regen, Regen im Norden Salzburgs und in OÖ (10.11.2026) (Frühjournal)
+- LA-Nachrichten: LAist: LAHSA fährt Computer wegen möglichem Cyberangriff herunter; Horvath kandidiert als County-CEO; LAUSD prüft Googles KI-Vorgabe (10.11.2026) https://laist.com/</itunes:summary>
+      <enclosure url="https://spencer-at.github.io/schani-podcast-fc13f351/episodes/2026-11-10.mp3" length="3781611" type="audio/mpeg"/>
+      <guid isPermaLink="false">schani-podcast-2026-11-10</guid>
+      <pubDate>Tue, 10 Nov 2026 07:00:00 +0100</pubDate>
+      <itunes:duration>378</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Montag, 9. November 2026</title>
       <description>Schanis Morgenüberblick für Montag, 9. November 2026: erst Österreich und die Welt, dann Finanzen, dann Tech und KI. Gekürzt und nacherzählt aus echten Podcast-Folgen, nichts dazugedichtet. Keine Anlageempfehlung.
