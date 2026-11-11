@@ -6,7 +6,7 @@
     <atom:link href="https://spencer-at.github.io/schani-podcast-fc13f351/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Privater Morgenüberblick für Wolfgang: Österreich und die Welt, Finanzen, Tech und KI. Nicht öffentlich gelistet.</description>
     <language>de-at</language>
-    <lastBuildDate>Tue, 10 Nov 2026 15:43:42 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 15:41:58 +0100</lastBuildDate>
     <itunes:author>Schani</itunes:author>
     <itunes:owner><itunes:name>Schani</itunes:name></itunes:owner>
     <itunes:image href="https://spencer-at.github.io/schani-podcast-fc13f351/cover.jpg"/>
@@ -15,6 +15,49 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>yes</itunes:block>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Mittwoch, 11. November 2026</title>
+      <description>Schanis Morgenüberblick für Mittwoch, 11. November 2026: erst Österreich und die Welt, dann Finanzen, dann Tech und KI. Gekürzt und nacherzählt aus echten Podcast-Folgen, nichts dazugedichtet. Keine Anlageempfehlung.
+
+Quellen:
+- Podcast / Quelle: Folge / Artikel (Datum) Link
+- Ö1 Journale (ORF): Frühjournal um 6 (11.11.2026) – eigenes Transkript (erste 15 Min.) (11.11.2026, 06:17 Wien) https://sound.orf.at/podcast/oe1/oe1-journale/fruehjournal-um-6-11112026
+- ZIB2-Podcast (ORF): Zu Gast: Christoph Wiederkehr, Bildungsminister (nur Beschreibung) (10.11.2026, 22:33 Wien) https://sound.orf.at/podcast/tv/zib2-podcast/zu-gast-christoph-wiederkehr-bildungsminister-neos
+- DER STANDARD Thema des Tages: Stürzt die Welt in die nächste Finanzkrise? (Beschreibung) (11.11.2026, 05:30 Wien) https://themadestages.podigee.io/1964-sturzt-die-welt-in-die-nachste-finanzkrise
+- Alles auf Aktien (WELT): Zeichnen oder nicht? Das Anthropic-IPO und der Radar-Star – eigenes Transkript (erste 12 Min.) (11.11.2026, 04:45 Wien) https://allesaufaktien.podigee.io/1745-zeichnen-oder-nicht-das-anthropic-ipo-und-der-radar-star
+- Ohne Aktien wird's schwer: Anthropic: 1.400 Mrd. $ Bewertung … NVIDIA-Sammelklage (Beschreibung) (11.11.2026, 03:00 Wien) https://feeds.megaphone.fm/PDS3666998460
+- Trending Topics Tech Talk: keine neue Folge seit 10.11. (bereits gestern verwendet) (–) –
+- heise online: Bericht: Jensen Huangs Affäre brachte Nvidia-Chips im Milliardenwert nach China (11.11.2026) https://heise.de/-11520058
+- heise KI-Update: KI-Update kompakt: Nvidia-Affäre, Coding-Agenten, Gemini 4 Carbon, Muse Ember (Begleitartikel) (11.11.2026, 15:00 Wien) https://kiupdate.podigee.io/684-11-11-2026 ; https://heise.de/-11520732
+- heise kurz informiert: 11.11.2026 – früh/spät; Artikel Australien KI-Regeln, Nahles über KI (11.11.2026) https://heise.de/-11518320 ; https://heise.de/-11520276
+- The 404 Media Podcast: Republicans Learn X Is the Echo Chamber (Beschreibung) (11.11.2026, 12:00 Wien) https://feeds.megaphone.fm/TBIEA2761282490
+- Wetter Santa Monica: NWS LOX 146,45, Update 11.11. 00:32 PST: Veterans Day 85 °F ≈ 29 °C sonnig, WNW 5–10 mph; Nacht 61 °F ≈ 16 °C (11.11.2026) https://api.weather.gov/gridpoints/LOX/146,45/forecast
+- Wetter Salzburg / Bad Ischl: Ö1 Frühjournal: Salzburg 5 °C, trüb, stellenweise Regen, Freitag nass, ab ~1000 m winterlich; Open-Meteo Bad Ischl 12.11.: 6–14 °C, 2,9 mm (11.11.2026) https://api.open-meteo.com/v1/forecast?latitude=47.71&amp;longitude=13.62
+- LA-Nachrichten: LAist: Prop. 40 Milliardärssteuer abgelehnt; Barrera wird Superintendent; Brief an White Memorial nach ICE-Einsatz (11.11.2026) https://laist.com/</description>
+      <itunes:summary>Schanis Morgenüberblick für Mittwoch, 11. November 2026: erst Österreich und die Welt, dann Finanzen, dann Tech und KI. Gekürzt und nacherzählt aus echten Podcast-Folgen, nichts dazugedichtet. Keine Anlageempfehlung.
+
+Quellen:
+- Podcast / Quelle: Folge / Artikel (Datum) Link
+- Ö1 Journale (ORF): Frühjournal um 6 (11.11.2026) – eigenes Transkript (erste 15 Min.) (11.11.2026, 06:17 Wien) https://sound.orf.at/podcast/oe1/oe1-journale/fruehjournal-um-6-11112026
+- ZIB2-Podcast (ORF): Zu Gast: Christoph Wiederkehr, Bildungsminister (nur Beschreibung) (10.11.2026, 22:33 Wien) https://sound.orf.at/podcast/tv/zib2-podcast/zu-gast-christoph-wiederkehr-bildungsminister-neos
+- DER STANDARD Thema des Tages: Stürzt die Welt in die nächste Finanzkrise? (Beschreibung) (11.11.2026, 05:30 Wien) https://themadestages.podigee.io/1964-sturzt-die-welt-in-die-nachste-finanzkrise
+- Alles auf Aktien (WELT): Zeichnen oder nicht? Das Anthropic-IPO und der Radar-Star – eigenes Transkript (erste 12 Min.) (11.11.2026, 04:45 Wien) https://allesaufaktien.podigee.io/1745-zeichnen-oder-nicht-das-anthropic-ipo-und-der-radar-star
+- Ohne Aktien wird's schwer: Anthropic: 1.400 Mrd. $ Bewertung … NVIDIA-Sammelklage (Beschreibung) (11.11.2026, 03:00 Wien) https://feeds.megaphone.fm/PDS3666998460
+- Trending Topics Tech Talk: keine neue Folge seit 10.11. (bereits gestern verwendet) (–) –
+- heise online: Bericht: Jensen Huangs Affäre brachte Nvidia-Chips im Milliardenwert nach China (11.11.2026) https://heise.de/-11520058
+- heise KI-Update: KI-Update kompakt: Nvidia-Affäre, Coding-Agenten, Gemini 4 Carbon, Muse Ember (Begleitartikel) (11.11.2026, 15:00 Wien) https://kiupdate.podigee.io/684-11-11-2026 ; https://heise.de/-11520732
+- heise kurz informiert: 11.11.2026 – früh/spät; Artikel Australien KI-Regeln, Nahles über KI (11.11.2026) https://heise.de/-11518320 ; https://heise.de/-11520276
+- The 404 Media Podcast: Republicans Learn X Is the Echo Chamber (Beschreibung) (11.11.2026, 12:00 Wien) https://feeds.megaphone.fm/TBIEA2761282490
+- Wetter Santa Monica: NWS LOX 146,45, Update 11.11. 00:32 PST: Veterans Day 85 °F ≈ 29 °C sonnig, WNW 5–10 mph; Nacht 61 °F ≈ 16 °C (11.11.2026) https://api.weather.gov/gridpoints/LOX/146,45/forecast
+- Wetter Salzburg / Bad Ischl: Ö1 Frühjournal: Salzburg 5 °C, trüb, stellenweise Regen, Freitag nass, ab ~1000 m winterlich; Open-Meteo Bad Ischl 12.11.: 6–14 °C, 2,9 mm (11.11.2026) https://api.open-meteo.com/v1/forecast?latitude=47.71&amp;longitude=13.62
+- LA-Nachrichten: LAist: Prop. 40 Milliardärssteuer abgelehnt; Barrera wird Superintendent; Brief an White Memorial nach ICE-Einsatz (11.11.2026) https://laist.com/</itunes:summary>
+      <enclosure url="https://spencer-at.github.io/schani-podcast-fc13f351/episodes/2026-11-11.mp3" length="4129039" type="audio/mpeg"/>
+      <guid isPermaLink="false">schani-podcast-2026-11-11</guid>
+      <pubDate>Wed, 11 Nov 2026 07:00:00 +0100</pubDate>
+      <itunes:duration>413</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Dienstag, 10. November 2026</title>
       <description>Schanis Morgenüberblick für Dienstag, 10. November 2026: erst Österreich und die Welt, dann Finanzen, dann Tech und KI. Gekürzt und nacherzählt aus echten Podcast-Folgen, nichts dazugedichtet. Keine Anlageempfehlung.
