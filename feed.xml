@@ -6,7 +6,7 @@
     <atom:link href="https://spencer-at.github.io/schani-podcast-fc13f351/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Privater Morgenüberblick für Wolfgang: Österreich und die Welt, Finanzen, Tech und KI. Nicht öffentlich gelistet.</description>
     <language>de-at</language>
-    <lastBuildDate>Wed, 11 Nov 2026 15:41:58 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 06:48:22 +0100</lastBuildDate>
     <itunes:author>Schani</itunes:author>
     <itunes:owner><itunes:name>Schani</itunes:name></itunes:owner>
     <itunes:image href="https://spencer-at.github.io/schani-podcast-fc13f351/cover.jpg"/>
@@ -15,6 +15,45 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>yes</itunes:block>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Donnerstag, 12. November 2026</title>
+      <description>Schanis Morgenüberblick für Donnerstag, 12. November 2026: erst Österreich und die Welt, dann Finanzen, dann Tech und KI. Gekürzt und nacherzählt aus echten Podcast-Folgen, nichts dazugedichtet. Keine Anlageempfehlung.
+
+Quellen:
+- Podcast / Quelle: Folge / Artikel (Datum) Link
+- Ö1 Journale (ORF): Frühjournal um 6 (12.11.2026) – eigenes Transkript (erste ~10 Min., teils lückenhaft) (12.11.2026, 06:17 Wien) https://sound.orf.at/podcast/oe1/oe1-journale/fruehjournal-um-6-12112026
+- ZIB2-Podcast (ORF): Zu Gast: Anna Sporrer, Justizministerin (nur Beschreibung) (11.11.2026, 22:31 Wien) https://sound.orf.at/podcast/tv/zib2-podcast/zu-gast-anna-sporrer-justizministerin-spoe
+- DER STANDARD Thema des Tages: Zerstört Trump die Nato für Putin? – Gerald Karner (Beschreibung) (12.11.2026, 05:30 Wien) https://themadestages.podigee.io/1967-zerstort-trump-die-nato-fur-putin-gerald-karner
+- Alles auf Aktien (WELT): Der nächste Jensen-Schocker und ein deutsches Börsenmärchen – eigenes Transkript (erste 12 Min.) (12.11.2026, 04:59 Wien) https://allesaufaktien.podigee.io/1746-der-nachste-jensen-schocker-und-ein-deutsches-borsenmarchen
+- Ohne Aktien wird's schwer: Siemens Energy mit krassen Zielen. SpaceX pusht Singulus … (Beschreibung) (12.11.2026, 03:00 Wien) https://feeds.megaphone.fm/PDS3666998460
+- Trending Topics Tech Talk: „Wenn wir das nicht schleunigst hinbekommen, haben wir das KI-Zeitalter in Europa verpasst“ (Beschreibung) (12.11.2026, 05:00 Wien) https://api.riverside.com/hosting/uw69nfsF.rss
+- heise kurz informiert: 12.11.2026 – früh; Artikel Grok Build, Digital Fairness Act, PayPal/Kartellamt, Klimabericht (12.11.2026, 05:30 Wien) https://heise.de/-11520974 ; https://heise.de/-11520754 ; https://heise.de/-11520996 ; https://heise.de/-11520804
+- heise KI-Update: keine neue Folge seit 11.11. (bereits gestern verwendet) (–) –
+- The 404 Media Podcast: Republicans Learn X Is the Echo Chamber (Beschreibung; keine neuere Folge) (11.11.2026, 12:00 Wien) https://feeds.megaphone.fm/TBIEA2761282490
+- Wetter Österreich: Ö1 Frühjournal: meist trüb, Regen von Süden, 6–14 °C, Nacht kälter, Nordalpen Schnee bis ~700 m (12.11.2026) (Frühjournal)
+- Wetter Bad Ischl: Open-Meteo: 12.11. 7,2–14,8 °C, 1,2 mm; 13.11. 0,7–9,7 °C, 17,3 mm; 14.11. −0,5–7,0 °C, 0 mm (12.11.2026) https://api.open-meteo.com/v1/forecast?latitude=47.71&amp;longitude=13.62</description>
+      <itunes:summary>Schanis Morgenüberblick für Donnerstag, 12. November 2026: erst Österreich und die Welt, dann Finanzen, dann Tech und KI. Gekürzt und nacherzählt aus echten Podcast-Folgen, nichts dazugedichtet. Keine Anlageempfehlung.
+
+Quellen:
+- Podcast / Quelle: Folge / Artikel (Datum) Link
+- Ö1 Journale (ORF): Frühjournal um 6 (12.11.2026) – eigenes Transkript (erste ~10 Min., teils lückenhaft) (12.11.2026, 06:17 Wien) https://sound.orf.at/podcast/oe1/oe1-journale/fruehjournal-um-6-12112026
+- ZIB2-Podcast (ORF): Zu Gast: Anna Sporrer, Justizministerin (nur Beschreibung) (11.11.2026, 22:31 Wien) https://sound.orf.at/podcast/tv/zib2-podcast/zu-gast-anna-sporrer-justizministerin-spoe
+- DER STANDARD Thema des Tages: Zerstört Trump die Nato für Putin? – Gerald Karner (Beschreibung) (12.11.2026, 05:30 Wien) https://themadestages.podigee.io/1967-zerstort-trump-die-nato-fur-putin-gerald-karner
+- Alles auf Aktien (WELT): Der nächste Jensen-Schocker und ein deutsches Börsenmärchen – eigenes Transkript (erste 12 Min.) (12.11.2026, 04:59 Wien) https://allesaufaktien.podigee.io/1746-der-nachste-jensen-schocker-und-ein-deutsches-borsenmarchen
+- Ohne Aktien wird's schwer: Siemens Energy mit krassen Zielen. SpaceX pusht Singulus … (Beschreibung) (12.11.2026, 03:00 Wien) https://feeds.megaphone.fm/PDS3666998460
+- Trending Topics Tech Talk: „Wenn wir das nicht schleunigst hinbekommen, haben wir das KI-Zeitalter in Europa verpasst“ (Beschreibung) (12.11.2026, 05:00 Wien) https://api.riverside.com/hosting/uw69nfsF.rss
+- heise kurz informiert: 12.11.2026 – früh; Artikel Grok Build, Digital Fairness Act, PayPal/Kartellamt, Klimabericht (12.11.2026, 05:30 Wien) https://heise.de/-11520974 ; https://heise.de/-11520754 ; https://heise.de/-11520996 ; https://heise.de/-11520804
+- heise KI-Update: keine neue Folge seit 11.11. (bereits gestern verwendet) (–) –
+- The 404 Media Podcast: Republicans Learn X Is the Echo Chamber (Beschreibung; keine neuere Folge) (11.11.2026, 12:00 Wien) https://feeds.megaphone.fm/TBIEA2761282490
+- Wetter Österreich: Ö1 Frühjournal: meist trüb, Regen von Süden, 6–14 °C, Nacht kälter, Nordalpen Schnee bis ~700 m (12.11.2026) (Frühjournal)
+- Wetter Bad Ischl: Open-Meteo: 12.11. 7,2–14,8 °C, 1,2 mm; 13.11. 0,7–9,7 °C, 17,3 mm; 14.11. −0,5–7,0 °C, 0 mm (12.11.2026) https://api.open-meteo.com/v1/forecast?latitude=47.71&amp;longitude=13.62</itunes:summary>
+      <enclosure url="https://spencer-at.github.io/schani-podcast-fc13f351/episodes/2026-11-12.mp3" length="3412239" type="audio/mpeg"/>
+      <guid isPermaLink="false">schani-podcast-2026-11-12</guid>
+      <pubDate>Thu, 12 Nov 2026 07:00:00 +0100</pubDate>
+      <itunes:duration>341</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Mittwoch, 11. November 2026</title>
       <description>Schanis Morgenüberblick für Mittwoch, 11. November 2026: erst Österreich und die Welt, dann Finanzen, dann Tech und KI. Gekürzt und nacherzählt aus echten Podcast-Folgen, nichts dazugedichtet. Keine Anlageempfehlung.
