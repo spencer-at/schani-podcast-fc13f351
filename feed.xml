@@ -6,7 +6,7 @@
     <atom:link href="https://spencer-at.github.io/schani-podcast-fc13f351/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Privater Morgenüberblick für Wolfgang: Österreich und die Welt, Finanzen, Tech und KI. Nicht öffentlich gelistet.</description>
     <language>de-at</language>
-    <lastBuildDate>Thu, 12 Nov 2026 06:48:22 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 06:45:24 +0100</lastBuildDate>
     <itunes:author>Schani</itunes:author>
     <itunes:owner><itunes:name>Schani</itunes:name></itunes:owner>
     <itunes:image href="https://spencer-at.github.io/schani-podcast-fc13f351/cover.jpg"/>
@@ -15,6 +15,47 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>yes</itunes:block>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Freitag, 13. November 2026</title>
+      <description>Schanis Morgenüberblick für Freitag, 13. November 2026: erst Österreich und die Welt, dann Finanzen, dann Tech und KI. Gekürzt und nacherzählt aus echten Podcast-Folgen, nichts dazugedichtet. Keine Anlageempfehlung.
+
+Quellen:
+- Podcast / Quelle: Folge / Artikel (Datum) Link
+- Ö1 Journale (ORF): Frühjournal um 6 (13.11.2026) – eigenes Transkript (ganze Sendung, ~10 Min.) (13.11.2026, 06:16 Wien) https://sound.orf.at/podcast/oe1/oe1-journale/fruehjournal-um-6-13112026
+- ZIB2-Podcast (ORF): Zu Gast: Ursula Plassnik (nur Beschreibung) (12.11.2026, 22:30 Wien) https://sound.orf.at/podcast/tv/zib2-podcast/zu-gast-ursula-plassnik-ehemalige-aussen--und-europaministerin-oevp
+- DER STANDARD Thema des Tages: keine neue Folge seit 12.11. 05:30 (gestern verwendet) (–) https://themadestages.podigee.io
+- Was jetzt? (DIE ZEIT): Nvidia war Jensen Huang – was wird Nvidia jetzt? (Beschreibung) (13.11.2026, 05:55 Wien) https://www.zeit.de/was-jetzt
+- Alles auf Aktien (WELT): AAA-Spezial aus dem Valley – die exklusive Nvidia-Analyse – eigenes Transkript (erste 12 Min.) (13.11.2026, 04:45 Wien) https://allesaufaktien.podigee.io/1747-aaa-spezial-aus-dem-valley-die-exklusive-nvidia-analyse
+- Ohne Aktien wird's schwer: Jensen Huang ist raus, Fossil-Comeback, Nebius crasht … (Beschreibung) (13.11.2026, 03:00 Wien) https://feeds.megaphone.fm/PDS3666998460
+- Trending Topics Tech Talk: keine neue Folge seit 12.11. (gestern verwendet) (–) –
+- heise kurz informiert: 13.11.2026 – früh; Artikel Huang, Anthropic-IPO, Mittwald, Notruf-Leck, Trainingsdaten (13.11.2026, 05:30 Wien) https://heise.de/-11522193 ; https://heise.de/-11522895 ; https://heise.de/-11522728 ; https://heise.de/-11523154 ; https://heise.de/-11521993
+- heise KI-Update: keine neue Folge seit 11.11. (–) –
+- The 404 Media Podcast: keine neue Folge seit 11.11. (–) –
+- Wetter Österreich: Ö1 Frühjournal: Kaltfront, Regen, Salzburg 4 °C um 6 Uhr, Schnee Nordalpen bis ~700 m, Vormittag trocken, Wochenende sonnig (13.11.2026) (Frühjournal)
+- Wetter Bad Ischl: Open-Meteo: 13.11. 2,4–9,5 °C, 14,5 mm; 14.11. −0,2–7,9 °C, Nebel; 15.11. −0,3–12,0 °C, 0 mm (13.11.2026) https://api.open-meteo.com/v1/forecast?latitude=47.71&amp;longitude=13.62</description>
+      <itunes:summary>Schanis Morgenüberblick für Freitag, 13. November 2026: erst Österreich und die Welt, dann Finanzen, dann Tech und KI. Gekürzt und nacherzählt aus echten Podcast-Folgen, nichts dazugedichtet. Keine Anlageempfehlung.
+
+Quellen:
+- Podcast / Quelle: Folge / Artikel (Datum) Link
+- Ö1 Journale (ORF): Frühjournal um 6 (13.11.2026) – eigenes Transkript (ganze Sendung, ~10 Min.) (13.11.2026, 06:16 Wien) https://sound.orf.at/podcast/oe1/oe1-journale/fruehjournal-um-6-13112026
+- ZIB2-Podcast (ORF): Zu Gast: Ursula Plassnik (nur Beschreibung) (12.11.2026, 22:30 Wien) https://sound.orf.at/podcast/tv/zib2-podcast/zu-gast-ursula-plassnik-ehemalige-aussen--und-europaministerin-oevp
+- DER STANDARD Thema des Tages: keine neue Folge seit 12.11. 05:30 (gestern verwendet) (–) https://themadestages.podigee.io
+- Was jetzt? (DIE ZEIT): Nvidia war Jensen Huang – was wird Nvidia jetzt? (Beschreibung) (13.11.2026, 05:55 Wien) https://www.zeit.de/was-jetzt
+- Alles auf Aktien (WELT): AAA-Spezial aus dem Valley – die exklusive Nvidia-Analyse – eigenes Transkript (erste 12 Min.) (13.11.2026, 04:45 Wien) https://allesaufaktien.podigee.io/1747-aaa-spezial-aus-dem-valley-die-exklusive-nvidia-analyse
+- Ohne Aktien wird's schwer: Jensen Huang ist raus, Fossil-Comeback, Nebius crasht … (Beschreibung) (13.11.2026, 03:00 Wien) https://feeds.megaphone.fm/PDS3666998460
+- Trending Topics Tech Talk: keine neue Folge seit 12.11. (gestern verwendet) (–) –
+- heise kurz informiert: 13.11.2026 – früh; Artikel Huang, Anthropic-IPO, Mittwald, Notruf-Leck, Trainingsdaten (13.11.2026, 05:30 Wien) https://heise.de/-11522193 ; https://heise.de/-11522895 ; https://heise.de/-11522728 ; https://heise.de/-11523154 ; https://heise.de/-11521993
+- heise KI-Update: keine neue Folge seit 11.11. (–) –
+- The 404 Media Podcast: keine neue Folge seit 11.11. (–) –
+- Wetter Österreich: Ö1 Frühjournal: Kaltfront, Regen, Salzburg 4 °C um 6 Uhr, Schnee Nordalpen bis ~700 m, Vormittag trocken, Wochenende sonnig (13.11.2026) (Frühjournal)
+- Wetter Bad Ischl: Open-Meteo: 13.11. 2,4–9,5 °C, 14,5 mm; 14.11. −0,2–7,9 °C, Nebel; 15.11. −0,3–12,0 °C, 0 mm (13.11.2026) https://api.open-meteo.com/v1/forecast?latitude=47.71&amp;longitude=13.62</itunes:summary>
+      <enclosure url="https://spencer-at.github.io/schani-podcast-fc13f351/episodes/2026-11-13.mp3" length="3852141" type="audio/mpeg"/>
+      <guid isPermaLink="false">schani-podcast-2026-11-13</guid>
+      <pubDate>Fri, 13 Nov 2026 07:00:00 +0100</pubDate>
+      <itunes:duration>385</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Donnerstag, 12. November 2026</title>
       <description>Schanis Morgenüberblick für Donnerstag, 12. November 2026: erst Österreich und die Welt, dann Finanzen, dann Tech und KI. Gekürzt und nacherzählt aus echten Podcast-Folgen, nichts dazugedichtet. Keine Anlageempfehlung.
