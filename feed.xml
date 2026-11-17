@@ -6,7 +6,7 @@
     <atom:link href="https://spencer-at.github.io/schani-podcast-fc13f351/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Privater Morgenüberblick für Wolfgang: Österreich und die Welt, Finanzen, Tech und KI. Nicht öffentlich gelistet.</description>
     <language>de-at</language>
-    <lastBuildDate>Mon, 16 Nov 2026 06:39:12 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 06:48:01 +0100</lastBuildDate>
     <itunes:author>Schani</itunes:author>
     <itunes:owner><itunes:name>Schani</itunes:name></itunes:owner>
     <itunes:image href="https://spencer-at.github.io/schani-podcast-fc13f351/cover.jpg"/>
@@ -15,6 +15,43 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>yes</itunes:block>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Dienstag, 17. November 2026</title>
+      <description>Schanis Morgenüberblick für Dienstag, 17. November 2026: erst Österreich und die Welt, dann Finanzen, dann Tech und KI. Gekürzt und nacherzählt aus echten Podcast-Folgen, nichts dazugedichtet. Keine Anlageempfehlung.
+
+Quellen:
+- Podcast / Quelle: Folge / Artikel (Datum) Link
+- Ö1 Journale (ORF): Frühjournal um 6 (17.11.2026) – eigenes Transkript (Whisper small, Qualität schwach; erster Lauf unbrauchbar, zweiter Lauf teilweise verständlich; nur klar verständliche Aussagen: Wehr-/Zivildienstreform, Handels-KV, Fake-Shops/Watchlist Internet, HPV-Aktionstag, Wetter; Frankreich-Debatte wegen unklarer Transkription weggelassen) (17.11.2026, 06:16 Wien) https://sound.orf.at/podcast/oe1/oe1-journale/fruehjournal-um-6-17112026
+- DER STANDARD: Startseite (Schlagzeilen/Teaser, abgerufen 17.11. ca. 06:45): Ruanda Return Hub, Ferry Maier, MA 35/Kneissl, EU-Sanktionsliste, Iran/Huthis, Stromnetztarife, Megaspeed (17.11.2026) https://www.derstandard.at/
+- DER STANDARD Thema des Tages: Ist Chinas Auto-Dominanz uneinholbar? (Beschreibung) (16.11.2026, 05:30 Wien) https://themadestages.podigee.io/1956-ist-chinas-auto-dominanz-uneinholbar
+- Alles auf Aktien (WELT): Der Dividenden-Irrtum und die geheimen Depots der Profis (Beschreibung + Teiltranskript, Qualität schwach) (17.11.2026, 03:59 Wien) https://allesaufaktien.podigee.io/1749-der-dividenden-irrtum-und-die-geheimen-depots-der-profis
+- Ohne Aktien wird's schwer: Anthropic-IPO: Kaufen oder nicht? NVIDIA-Chaos, Amazon verkauft Rechenzentren, Eli Lilly auf Einkaufstour (Beschreibung) (17.11.2026, 03:00 Wien) https://feeds.megaphone.fm/PDS3666998460
+- Trending Topics Tech Talk: Nvidia: „Ohne Founder-Drive können die das nicht mehr machen“ (Beschreibung) (15.11.2026, 10:45 Wien) https://api.riverside.com/hosting/uw69nfsF.rss
+- heise KI-Update: KI-Update kompakt: Nvidia-Drama, Berufseinstieg, Siri AI, Home Assistant mit KI (Begleitartikel) (16.11.2026, 15:00 Wien) https://heise.de/-11524748
+- heise kurz informiert: Kurz informiert 17.11.2026 – früh (Shownote-Artikel heise.de/-11526376, -11526897, -11526903, -11526110, -11526207) (17.11.2026, 05:30 Wien) https://kurzinformiert.podigee.io/3024-neue-episode
+- The 404 Media Podcast: The AI and Nuclear Weapons Episode (Beschreibung) (16.11.2026, 12:00 Wien) https://feeds.megaphone.fm/TBIEA2761282490
+- Wetter Bad Ischl: Open-Meteo (abgerufen 17.11. ca. 06:45): aktuell 6,6 °C, Regen; 17.11. 5,0–11,2 °C, 2,6 mm, 0 h Sonne; 18.11. 6,8–13,8 °C, 3,7 mm, ~6,6 h Sonne; 19.11. 3,3–9,5 °C, 3,1 mm (17.11.2026) https://api.open-meteo.com/v1/forecast?latitude=47.71&amp;longitude=13.62</description>
+      <itunes:summary>Schanis Morgenüberblick für Dienstag, 17. November 2026: erst Österreich und die Welt, dann Finanzen, dann Tech und KI. Gekürzt und nacherzählt aus echten Podcast-Folgen, nichts dazugedichtet. Keine Anlageempfehlung.
+
+Quellen:
+- Podcast / Quelle: Folge / Artikel (Datum) Link
+- Ö1 Journale (ORF): Frühjournal um 6 (17.11.2026) – eigenes Transkript (Whisper small, Qualität schwach; erster Lauf unbrauchbar, zweiter Lauf teilweise verständlich; nur klar verständliche Aussagen: Wehr-/Zivildienstreform, Handels-KV, Fake-Shops/Watchlist Internet, HPV-Aktionstag, Wetter; Frankreich-Debatte wegen unklarer Transkription weggelassen) (17.11.2026, 06:16 Wien) https://sound.orf.at/podcast/oe1/oe1-journale/fruehjournal-um-6-17112026
+- DER STANDARD: Startseite (Schlagzeilen/Teaser, abgerufen 17.11. ca. 06:45): Ruanda Return Hub, Ferry Maier, MA 35/Kneissl, EU-Sanktionsliste, Iran/Huthis, Stromnetztarife, Megaspeed (17.11.2026) https://www.derstandard.at/
+- DER STANDARD Thema des Tages: Ist Chinas Auto-Dominanz uneinholbar? (Beschreibung) (16.11.2026, 05:30 Wien) https://themadestages.podigee.io/1956-ist-chinas-auto-dominanz-uneinholbar
+- Alles auf Aktien (WELT): Der Dividenden-Irrtum und die geheimen Depots der Profis (Beschreibung + Teiltranskript, Qualität schwach) (17.11.2026, 03:59 Wien) https://allesaufaktien.podigee.io/1749-der-dividenden-irrtum-und-die-geheimen-depots-der-profis
+- Ohne Aktien wird's schwer: Anthropic-IPO: Kaufen oder nicht? NVIDIA-Chaos, Amazon verkauft Rechenzentren, Eli Lilly auf Einkaufstour (Beschreibung) (17.11.2026, 03:00 Wien) https://feeds.megaphone.fm/PDS3666998460
+- Trending Topics Tech Talk: Nvidia: „Ohne Founder-Drive können die das nicht mehr machen“ (Beschreibung) (15.11.2026, 10:45 Wien) https://api.riverside.com/hosting/uw69nfsF.rss
+- heise KI-Update: KI-Update kompakt: Nvidia-Drama, Berufseinstieg, Siri AI, Home Assistant mit KI (Begleitartikel) (16.11.2026, 15:00 Wien) https://heise.de/-11524748
+- heise kurz informiert: Kurz informiert 17.11.2026 – früh (Shownote-Artikel heise.de/-11526376, -11526897, -11526903, -11526110, -11526207) (17.11.2026, 05:30 Wien) https://kurzinformiert.podigee.io/3024-neue-episode
+- The 404 Media Podcast: The AI and Nuclear Weapons Episode (Beschreibung) (16.11.2026, 12:00 Wien) https://feeds.megaphone.fm/TBIEA2761282490
+- Wetter Bad Ischl: Open-Meteo (abgerufen 17.11. ca. 06:45): aktuell 6,6 °C, Regen; 17.11. 5,0–11,2 °C, 2,6 mm, 0 h Sonne; 18.11. 6,8–13,8 °C, 3,7 mm, ~6,6 h Sonne; 19.11. 3,3–9,5 °C, 3,1 mm (17.11.2026) https://api.open-meteo.com/v1/forecast?latitude=47.71&amp;longitude=13.62</itunes:summary>
+      <enclosure url="https://spencer-at.github.io/schani-podcast-fc13f351/episodes/2026-11-17.mp3" length="3863635" type="audio/mpeg"/>
+      <guid isPermaLink="false">schani-podcast-2026-11-17</guid>
+      <pubDate>Tue, 17 Nov 2026 07:00:00 +0100</pubDate>
+      <itunes:duration>386</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Montag, 16. November 2026</title>
       <description>Schanis Morgenüberblick für Montag, 16. November 2026: erst Österreich und die Welt, dann Finanzen, dann Tech und KI. Gekürzt und nacherzählt aus echten Podcast-Folgen, nichts dazugedichtet. Keine Anlageempfehlung.
