@@ -6,7 +6,7 @@
     <atom:link href="https://spencer-at.github.io/schani-podcast-fc13f351/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Privater Morgenüberblick für Wolfgang: Österreich und die Welt, Finanzen, Tech und KI. Nicht öffentlich gelistet.</description>
     <language>de-at</language>
-    <lastBuildDate>Tue, 17 Nov 2026 06:48:01 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 06:39:48 +0100</lastBuildDate>
     <itunes:author>Schani</itunes:author>
     <itunes:owner><itunes:name>Schani</itunes:name></itunes:owner>
     <itunes:image href="https://spencer-at.github.io/schani-podcast-fc13f351/cover.jpg"/>
@@ -15,6 +15,45 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>yes</itunes:block>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Mittwoch, 18. November 2026</title>
+      <description>Schanis Morgenüberblick für Mittwoch, 18. November 2026: erst Österreich und die Welt, dann Finanzen, dann Tech und KI. Gekürzt und nacherzählt aus echten Podcast-Folgen, nichts dazugedichtet. Keine Anlageempfehlung.
+
+Quellen:
+- Podcast / Quelle: Folge / Artikel (Datum) Link
+- Ö1 Journale (ORF): Frühjournal um 6 (18.11.2026) – eigenes Transkript (Whisper small, gut verständlich; Personennamen wegen unsicherer Transkription weggelassen; Epstein-Autopsie-Bericht weggelassen) (18.11.2026, 06:15 Wien) https://sound.orf.at/podcast/oe1/oe1-journale/fruehjournal-um-6-18112026
+- DER STANDARD: Startseite (Schlagzeilen/Teaser, abgerufen 18.11. ca. 06:50): Deutsche Bank/Epstein 580 Mio. $, Krim-Brücke, Peltola/Alaska, Klimatickets, Nvidia verdoppelt Umsatz und Gewinn, Voyager 1, Proteste Bratislava (18.11.2026) https://www.derstandard.at/
+- DER STANDARD Thema des Tages: Die deutsche Bank der Bösewichte (Beschreibung); Der Mega-Hype um GTA 6, erklärt (Beschreibung) (17.11.2026 06:55 / 18.11.2026 05:30 Wien) https://themadestages.podigee.io/1968-die-schmutzigen-geschafte-der-deutschen-bank-mit-putin-epstein-und-trump ; https://themadestages.podigee.io/1965-wie-gta-6-zum-ersten-milliarden-game-wurde
+- Alles auf Aktien (WELT): Nvidias Trotz-Quartal und Deutschlands größte Anthropic-Wette (Beschreibung) (18.11.2026, 04:59 Wien) https://allesaufaktien.podigee.io/1750-nvidias-trotz-quartal-und-deutschlands-grosste-anthropic-wette
+- Ohne Aktien wird's schwer: NVIDIA: Erste Zahlen ohne Jensen. Nike-Strategie, Deutsche Bank Skandal &amp; 1.500 Folgen OAWS (Beschreibung) (18.11.2026, 03:00 Wien) https://feeds.megaphone.fm/PDS3666998460
+- Trending Topics Tech Talk: keine Folge im 48-h-Fenster (–) https://api.riverside.com/hosting/uw69nfsF.rss
+- heise kurz informiert: Kurz informiert 18.11.2026 – früh (Artikel heise.de/-11528427, -11528367, -11527902, -11527514, -11528073) (18.11.2026, 05:30 Wien) https://kurzinformiert.podigee.io/3026-kurz-informiert-18-11-2026-fruh
+- heise kurz informiert: Kurz informiert 17.11.2026 – spät (Artikel heise.de/-11527400, -11527043) (17.11.2026, 15:00 Wien) https://kurzinformiert.podigee.io/3025-kurz-informiert-17-11-2026-spat
+- heise KI-Update: letzte Folge 16.11. (gestern schon behandelt); nächste Folge 18.11. ab 15 Uhr (–) https://kiupdate.podigee.io/
+- The 404 Media Podcast: The AI and Nuclear Weapons Episode (Beschreibung) (16.11.2026, 12:00 Wien) https://feeds.megaphone.fm/TBIEA2761282490
+- Wetter Bad Ischl: Ö1-Wetter (Frühjournal) + Open-Meteo (abgerufen 18.11. ca. 06:40): aktuell 7,3 °C, Regenschauer; 18.11. 5,3–12,7 °C, 1,7 mm, ~6,1 h Sonne; 19.11. 4,3–10,1 °C, 2,7 mm, 0 h Sonne; 20.11. 2,2–10,8 °C, 5,7 mm (18.11.2026) https://api.open-meteo.com/v1/forecast?latitude=47.71&amp;longitude=13.62</description>
+      <itunes:summary>Schanis Morgenüberblick für Mittwoch, 18. November 2026: erst Österreich und die Welt, dann Finanzen, dann Tech und KI. Gekürzt und nacherzählt aus echten Podcast-Folgen, nichts dazugedichtet. Keine Anlageempfehlung.
+
+Quellen:
+- Podcast / Quelle: Folge / Artikel (Datum) Link
+- Ö1 Journale (ORF): Frühjournal um 6 (18.11.2026) – eigenes Transkript (Whisper small, gut verständlich; Personennamen wegen unsicherer Transkription weggelassen; Epstein-Autopsie-Bericht weggelassen) (18.11.2026, 06:15 Wien) https://sound.orf.at/podcast/oe1/oe1-journale/fruehjournal-um-6-18112026
+- DER STANDARD: Startseite (Schlagzeilen/Teaser, abgerufen 18.11. ca. 06:50): Deutsche Bank/Epstein 580 Mio. $, Krim-Brücke, Peltola/Alaska, Klimatickets, Nvidia verdoppelt Umsatz und Gewinn, Voyager 1, Proteste Bratislava (18.11.2026) https://www.derstandard.at/
+- DER STANDARD Thema des Tages: Die deutsche Bank der Bösewichte (Beschreibung); Der Mega-Hype um GTA 6, erklärt (Beschreibung) (17.11.2026 06:55 / 18.11.2026 05:30 Wien) https://themadestages.podigee.io/1968-die-schmutzigen-geschafte-der-deutschen-bank-mit-putin-epstein-und-trump ; https://themadestages.podigee.io/1965-wie-gta-6-zum-ersten-milliarden-game-wurde
+- Alles auf Aktien (WELT): Nvidias Trotz-Quartal und Deutschlands größte Anthropic-Wette (Beschreibung) (18.11.2026, 04:59 Wien) https://allesaufaktien.podigee.io/1750-nvidias-trotz-quartal-und-deutschlands-grosste-anthropic-wette
+- Ohne Aktien wird's schwer: NVIDIA: Erste Zahlen ohne Jensen. Nike-Strategie, Deutsche Bank Skandal &amp; 1.500 Folgen OAWS (Beschreibung) (18.11.2026, 03:00 Wien) https://feeds.megaphone.fm/PDS3666998460
+- Trending Topics Tech Talk: keine Folge im 48-h-Fenster (–) https://api.riverside.com/hosting/uw69nfsF.rss
+- heise kurz informiert: Kurz informiert 18.11.2026 – früh (Artikel heise.de/-11528427, -11528367, -11527902, -11527514, -11528073) (18.11.2026, 05:30 Wien) https://kurzinformiert.podigee.io/3026-kurz-informiert-18-11-2026-fruh
+- heise kurz informiert: Kurz informiert 17.11.2026 – spät (Artikel heise.de/-11527400, -11527043) (17.11.2026, 15:00 Wien) https://kurzinformiert.podigee.io/3025-kurz-informiert-17-11-2026-spat
+- heise KI-Update: letzte Folge 16.11. (gestern schon behandelt); nächste Folge 18.11. ab 15 Uhr (–) https://kiupdate.podigee.io/
+- The 404 Media Podcast: The AI and Nuclear Weapons Episode (Beschreibung) (16.11.2026, 12:00 Wien) https://feeds.megaphone.fm/TBIEA2761282490
+- Wetter Bad Ischl: Ö1-Wetter (Frühjournal) + Open-Meteo (abgerufen 18.11. ca. 06:40): aktuell 7,3 °C, Regenschauer; 18.11. 5,3–12,7 °C, 1,7 mm, ~6,1 h Sonne; 19.11. 4,3–10,1 °C, 2,7 mm, 0 h Sonne; 20.11. 2,2–10,8 °C, 5,7 mm (18.11.2026) https://api.open-meteo.com/v1/forecast?latitude=47.71&amp;longitude=13.62</itunes:summary>
+      <enclosure url="https://spencer-at.github.io/schani-podcast-fc13f351/episodes/2026-11-18.mp3" length="3572631" type="audio/mpeg"/>
+      <guid isPermaLink="false">schani-podcast-2026-11-18</guid>
+      <pubDate>Wed, 18 Nov 2026 07:00:00 +0100</pubDate>
+      <itunes:duration>357</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Dienstag, 17. November 2026</title>
       <description>Schanis Morgenüberblick für Dienstag, 17. November 2026: erst Österreich und die Welt, dann Finanzen, dann Tech und KI. Gekürzt und nacherzählt aus echten Podcast-Folgen, nichts dazugedichtet. Keine Anlageempfehlung.
