@@ -6,7 +6,7 @@
     <atom:link href="https://spencer-at.github.io/schani-podcast-fc13f351/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Privater Morgenüberblick für Wolfgang: Österreich und die Welt, Finanzen, Tech und KI. Nicht öffentlich gelistet.</description>
     <language>de-at</language>
-    <lastBuildDate>Wed, 18 Nov 2026 06:39:48 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 06:57:18 +0100</lastBuildDate>
     <itunes:author>Schani</itunes:author>
     <itunes:owner><itunes:name>Schani</itunes:name></itunes:owner>
     <itunes:image href="https://spencer-at.github.io/schani-podcast-fc13f351/cover.jpg"/>
@@ -15,6 +15,43 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>yes</itunes:block>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Donnerstag, 19. November 2026</title>
+      <description>Schanis Morgenüberblick für Donnerstag, 19. November 2026: erst Österreich und die Welt, dann Finanzen, dann Tech und KI. Gekürzt und nacherzählt aus echten Podcast-Folgen, nichts dazugedichtet. Keine Anlageempfehlung.
+
+Quellen:
+- Podcast / Quelle: Folge / Artikel (Datum) Link
+- Ö1 Journale (ORF): Frühjournal um 6 (19.11.2026) – eigenes Transkript (Whisper small mit VAD; erster Lauf ohne VAD lieferte nur Fragmente). Unsichere Orts-/Personennamen (Gipfelort, FIFA-Kandidat) weggelassen (19.11.2026, 06:16 Wien) https://sound.orf.at/podcast/oe1/oe1-journale/fruehjournal-um-6-19112026
+- DER STANDARD: RSS-Schlagzeilen (abgerufen 19.11. ca. 06:50): Karner/Ruanda, Wien-Sparpaket 2027, Musk bedauert Spenden, Anthropic-Ausgabepreis 83 $ (18./19.11.2026) https://www.derstandard.at/rss
+- DER STANDARD Thema des Tages: Der Nvidia-Skandal ist viel gefährlicher als wir dachten – Sandra Navidi (Beschreibung) (19.11.2026, 05:30 Wien) https://themadestages.podigee.io/1972-die-nvidia-affare-ist-viel-gefahrlicher-als-wir-dachten-sandra-navidi
+- Alles auf Aktien (WELT): Deutschlands Greisen-Börse und der Hamsterkauf fürs Depot – Beschreibung + eigenes Transkript (19.11.2026, 04:45 Wien) https://allesaufaktien.podigee.io/1751-deutschlands-greisen-borse-und-der-hamsterkauf-furs-depot
+- Ohne Aktien wird's schwer: GTA 6: Kurstreiber für Take-Two &amp; Sony? Anthropic-Preis … (Beschreibung) (19.11.2026, 03:00 Wien) https://feeds.megaphone.fm/PDS3666998460
+- Trending Topics Tech Talk: Anthropic-IPO: Tausende Mitarbeiter werden Multi-Millionäre (Beschreibung) (19.11.2026, 05:00 Wien) https://api.riverside.com/hosting/uw69nfsF.rss
+- heise KI-Update: KI-Update kompakt: Destillation, Anthropics Börsengang, OpenAI-Klage, IdeaLens (Begleitartikel) (18.11.2026, 15:00 Wien) https://kiupdate.podigee.io/687-18-11-2026 ; https://heise.de/-11528179
+- heise kurz informiert: Kurz informiert 19.11.2026 – früh (Artikel heise.de/-11529155, -11529550, -11529740, -11529221) (19.11.2026, 05:30 Wien) https://kurzinformiert.podigee.io/3028-kurz-informiert-19-11-2026-fruh
+- The 404 Media Podcast: The Confessions of an AI Fraud Kingpin (Beschreibung) (18.11.2026, 12:00 Wien) https://feeds.megaphone.fm/TBIEA2761282490
+- Wetter Bad Ischl: Ö1-Wetter (Frühjournal) + Open-Meteo (abgerufen 19.11. 06:43): aktuell 5,4 °C, bedeckt; 19.11. 4,4–9,7 °C, 3,2 mm, 0 h Sonne; 20.11. 4,8–10,3 °C, 3,4 mm, ~4,6 h Sonne; 21.11. 2,8–7,3 °C, 14,5 mm (19.11.2026) https://api.open-meteo.com/v1/forecast?latitude=47.71&amp;longitude=13.62</description>
+      <itunes:summary>Schanis Morgenüberblick für Donnerstag, 19. November 2026: erst Österreich und die Welt, dann Finanzen, dann Tech und KI. Gekürzt und nacherzählt aus echten Podcast-Folgen, nichts dazugedichtet. Keine Anlageempfehlung.
+
+Quellen:
+- Podcast / Quelle: Folge / Artikel (Datum) Link
+- Ö1 Journale (ORF): Frühjournal um 6 (19.11.2026) – eigenes Transkript (Whisper small mit VAD; erster Lauf ohne VAD lieferte nur Fragmente). Unsichere Orts-/Personennamen (Gipfelort, FIFA-Kandidat) weggelassen (19.11.2026, 06:16 Wien) https://sound.orf.at/podcast/oe1/oe1-journale/fruehjournal-um-6-19112026
+- DER STANDARD: RSS-Schlagzeilen (abgerufen 19.11. ca. 06:50): Karner/Ruanda, Wien-Sparpaket 2027, Musk bedauert Spenden, Anthropic-Ausgabepreis 83 $ (18./19.11.2026) https://www.derstandard.at/rss
+- DER STANDARD Thema des Tages: Der Nvidia-Skandal ist viel gefährlicher als wir dachten – Sandra Navidi (Beschreibung) (19.11.2026, 05:30 Wien) https://themadestages.podigee.io/1972-die-nvidia-affare-ist-viel-gefahrlicher-als-wir-dachten-sandra-navidi
+- Alles auf Aktien (WELT): Deutschlands Greisen-Börse und der Hamsterkauf fürs Depot – Beschreibung + eigenes Transkript (19.11.2026, 04:45 Wien) https://allesaufaktien.podigee.io/1751-deutschlands-greisen-borse-und-der-hamsterkauf-furs-depot
+- Ohne Aktien wird's schwer: GTA 6: Kurstreiber für Take-Two &amp; Sony? Anthropic-Preis … (Beschreibung) (19.11.2026, 03:00 Wien) https://feeds.megaphone.fm/PDS3666998460
+- Trending Topics Tech Talk: Anthropic-IPO: Tausende Mitarbeiter werden Multi-Millionäre (Beschreibung) (19.11.2026, 05:00 Wien) https://api.riverside.com/hosting/uw69nfsF.rss
+- heise KI-Update: KI-Update kompakt: Destillation, Anthropics Börsengang, OpenAI-Klage, IdeaLens (Begleitartikel) (18.11.2026, 15:00 Wien) https://kiupdate.podigee.io/687-18-11-2026 ; https://heise.de/-11528179
+- heise kurz informiert: Kurz informiert 19.11.2026 – früh (Artikel heise.de/-11529155, -11529550, -11529740, -11529221) (19.11.2026, 05:30 Wien) https://kurzinformiert.podigee.io/3028-kurz-informiert-19-11-2026-fruh
+- The 404 Media Podcast: The Confessions of an AI Fraud Kingpin (Beschreibung) (18.11.2026, 12:00 Wien) https://feeds.megaphone.fm/TBIEA2761282490
+- Wetter Bad Ischl: Ö1-Wetter (Frühjournal) + Open-Meteo (abgerufen 19.11. 06:43): aktuell 5,4 °C, bedeckt; 19.11. 4,4–9,7 °C, 3,2 mm, 0 h Sonne; 20.11. 4,8–10,3 °C, 3,4 mm, ~4,6 h Sonne; 21.11. 2,8–7,3 °C, 14,5 mm (19.11.2026) https://api.open-meteo.com/v1/forecast?latitude=47.71&amp;longitude=13.62</itunes:summary>
+      <enclosure url="https://spencer-at.github.io/schani-podcast-fc13f351/episodes/2026-11-19.mp3" length="3930247" type="audio/mpeg"/>
+      <guid isPermaLink="false">schani-podcast-2026-11-19</guid>
+      <pubDate>Thu, 19 Nov 2026 07:00:00 +0100</pubDate>
+      <itunes:duration>393</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Mittwoch, 18. November 2026</title>
       <description>Schanis Morgenüberblick für Mittwoch, 18. November 2026: erst Österreich und die Welt, dann Finanzen, dann Tech und KI. Gekürzt und nacherzählt aus echten Podcast-Folgen, nichts dazugedichtet. Keine Anlageempfehlung.
