@@ -6,7 +6,7 @@
     <atom:link href="https://spencer-at.github.io/schani-podcast-fc13f351/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Privater Morgenüberblick für Wolfgang: Österreich und die Welt, Finanzen, Tech und KI. Nicht öffentlich gelistet.</description>
     <language>de-at</language>
-    <lastBuildDate>Thu, 19 Nov 2026 06:57:18 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 06:51:12 +0100</lastBuildDate>
     <itunes:author>Schani</itunes:author>
     <itunes:owner><itunes:name>Schani</itunes:name></itunes:owner>
     <itunes:image href="https://spencer-at.github.io/schani-podcast-fc13f351/cover.jpg"/>
@@ -15,6 +15,43 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>yes</itunes:block>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Freitag, 20. November 2026</title>
+      <description>Schanis Morgenüberblick für Freitag, 20. November 2026: erst Österreich und die Welt, dann Finanzen, dann Tech und KI. Gekürzt und nacherzählt aus echten Podcast-Folgen, nichts dazugedichtet. Keine Anlageempfehlung.
+
+Quellen:
+- Podcast / Quelle: Folge / Artikel (Datum) Link
+- Ö1 Journale (ORF): Frühjournal um 6 (20.11.2026) – eigenes Transkript (Whisper small mit VAD, lückenhaft; Wetterteil am Ende unbrauchbar, nur Schlagzeile "wechselhaft, mild" verwendet; Name des Frauenfußball-Teams unklar → weggelassen) (20.11.2026, 06:17 Wien) https://sound.orf.at/podcast/oe1/oe1-journale/fruehjournal-um-6-20112026
+- DER STANDARD: RSS-Schlagzeilen (abgerufen 20.11. ca. 06:45): Trump entlässt Cyberdirektor, ÖBB-Chefsuche, Tesla-Fahrer vs. Tesla Motors Austria, Asien-Börsen/Anthropic (20.11.2026) https://www.derstandard.at/rss
+- DER STANDARD Thema des Tages: Wie die Ukraine die Krim-Brücke zerstören konnte – Markus Reisner (Beschreibung) (20.11.2026, 05:30 Wien) https://themadestages.podigee.io/1970-wie-die-ukraine-die-krim-brucke-zerstoren-konnte-markus-reisner
+- Alles auf Aktien (WELT): Anthropic bestellter Kurssprung und der Affären-Schutz fürs Depot – Beschreibung + eigenes Transkript (erste 12 min, v2) (20.11.2026, 03:59 Wien) https://allesaufaktien.podigee.io/1752-anthropic-bestellter-kurssprung-und-der-affaren-schutz-furs-depot
+- Ohne Aktien wird's schwer: Gold: Wie lange fällt der Preis noch? Anthropic-IPO: Pop &amp; Fall … (Beschreibung) (20.11.2026, 03:00 Wien) https://feeds.megaphone.fm/PDS3666998460
+- Trending Topics Tech Talk: Anthropic-IPO: Tausende Mitarbeiter werden Multi-Millionäre (Beschreibung; neueste Folge) (19.11.2026, 05:00 Wien) https://api.riverside.com/hosting/uw69nfsF.rss
+- heise KI-Update: Keine neue Folge seit 18.11.; Begleitartikel heise.de/-11528179 (Grok-Training ausgesetzt, Nvidia-Zahlen) (18.11.2026, 15:00 Wien) https://kiupdate.podigee.io/687-18-11-2026
+- heise kurz informiert: Kurz informiert 20.11.2026 – früh (Artikel heise.de/-11531700, -11528173, -11531556, -11531361, -11531422) (20.11.2026, 06:12 Wien) https://kurzinformiert.podigee.io/3030-kurz-informiert-20-11-2026-fruh
+- The 404 Media Podcast: The Confessions of an AI Fraud Kingpin (Beschreibung; neueste Folge, "A Muse AI Agent Is Suing Meta") (18.11.2026, 12:00 Wien) https://feeds.megaphone.fm/TBIEA2761282490
+- Wetter Bad Ischl: Ö1-Schlagzeile + Open-Meteo (abgerufen 20.11. 06:45): aktuell 6,2 °C, bedeckt; 20.11. 4,8–10,4 °C, 1,6 mm, ~3,7 h Sonne; 21.11. 3,3–7,5 °C, 8,8 mm; 22.11. 0,6–6,8 °C, 0 mm, Nebel (20.11.2026) https://api.open-meteo.com/v1/forecast?latitude=47.71&amp;longitude=13.62</description>
+      <itunes:summary>Schanis Morgenüberblick für Freitag, 20. November 2026: erst Österreich und die Welt, dann Finanzen, dann Tech und KI. Gekürzt und nacherzählt aus echten Podcast-Folgen, nichts dazugedichtet. Keine Anlageempfehlung.
+
+Quellen:
+- Podcast / Quelle: Folge / Artikel (Datum) Link
+- Ö1 Journale (ORF): Frühjournal um 6 (20.11.2026) – eigenes Transkript (Whisper small mit VAD, lückenhaft; Wetterteil am Ende unbrauchbar, nur Schlagzeile "wechselhaft, mild" verwendet; Name des Frauenfußball-Teams unklar → weggelassen) (20.11.2026, 06:17 Wien) https://sound.orf.at/podcast/oe1/oe1-journale/fruehjournal-um-6-20112026
+- DER STANDARD: RSS-Schlagzeilen (abgerufen 20.11. ca. 06:45): Trump entlässt Cyberdirektor, ÖBB-Chefsuche, Tesla-Fahrer vs. Tesla Motors Austria, Asien-Börsen/Anthropic (20.11.2026) https://www.derstandard.at/rss
+- DER STANDARD Thema des Tages: Wie die Ukraine die Krim-Brücke zerstören konnte – Markus Reisner (Beschreibung) (20.11.2026, 05:30 Wien) https://themadestages.podigee.io/1970-wie-die-ukraine-die-krim-brucke-zerstoren-konnte-markus-reisner
+- Alles auf Aktien (WELT): Anthropic bestellter Kurssprung und der Affären-Schutz fürs Depot – Beschreibung + eigenes Transkript (erste 12 min, v2) (20.11.2026, 03:59 Wien) https://allesaufaktien.podigee.io/1752-anthropic-bestellter-kurssprung-und-der-affaren-schutz-furs-depot
+- Ohne Aktien wird's schwer: Gold: Wie lange fällt der Preis noch? Anthropic-IPO: Pop &amp; Fall … (Beschreibung) (20.11.2026, 03:00 Wien) https://feeds.megaphone.fm/PDS3666998460
+- Trending Topics Tech Talk: Anthropic-IPO: Tausende Mitarbeiter werden Multi-Millionäre (Beschreibung; neueste Folge) (19.11.2026, 05:00 Wien) https://api.riverside.com/hosting/uw69nfsF.rss
+- heise KI-Update: Keine neue Folge seit 18.11.; Begleitartikel heise.de/-11528179 (Grok-Training ausgesetzt, Nvidia-Zahlen) (18.11.2026, 15:00 Wien) https://kiupdate.podigee.io/687-18-11-2026
+- heise kurz informiert: Kurz informiert 20.11.2026 – früh (Artikel heise.de/-11531700, -11528173, -11531556, -11531361, -11531422) (20.11.2026, 06:12 Wien) https://kurzinformiert.podigee.io/3030-kurz-informiert-20-11-2026-fruh
+- The 404 Media Podcast: The Confessions of an AI Fraud Kingpin (Beschreibung; neueste Folge, "A Muse AI Agent Is Suing Meta") (18.11.2026, 12:00 Wien) https://feeds.megaphone.fm/TBIEA2761282490
+- Wetter Bad Ischl: Ö1-Schlagzeile + Open-Meteo (abgerufen 20.11. 06:45): aktuell 6,2 °C, bedeckt; 20.11. 4,8–10,4 °C, 1,6 mm, ~3,7 h Sonne; 21.11. 3,3–7,5 °C, 8,8 mm; 22.11. 0,6–6,8 °C, 0 mm, Nebel (20.11.2026) https://api.open-meteo.com/v1/forecast?latitude=47.71&amp;longitude=13.62</itunes:summary>
+      <enclosure url="https://spencer-at.github.io/schani-podcast-fc13f351/episodes/2026-11-20.mp3" length="3769594" type="audio/mpeg"/>
+      <guid isPermaLink="false">schani-podcast-2026-11-20</guid>
+      <pubDate>Fri, 20 Nov 2026 07:00:00 +0100</pubDate>
+      <itunes:duration>377</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Donnerstag, 19. November 2026</title>
       <description>Schanis Morgenüberblick für Donnerstag, 19. November 2026: erst Österreich und die Welt, dann Finanzen, dann Tech und KI. Gekürzt und nacherzählt aus echten Podcast-Folgen, nichts dazugedichtet. Keine Anlageempfehlung.
