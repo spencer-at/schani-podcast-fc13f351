@@ -6,7 +6,7 @@
     <atom:link href="https://spencer-at.github.io/schani-podcast-fc13f351/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Privater Morgenüberblick für Wolfgang: Österreich und die Welt, Finanzen, Tech und KI. Nicht öffentlich gelistet.</description>
     <language>de-at</language>
-    <lastBuildDate>Fri, 20 Nov 2026 06:51:12 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 06:51:03 +0100</lastBuildDate>
     <itunes:author>Schani</itunes:author>
     <itunes:owner><itunes:name>Schani</itunes:name></itunes:owner>
     <itunes:image href="https://spencer-at.github.io/schani-podcast-fc13f351/cover.jpg"/>
@@ -15,6 +15,43 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>yes</itunes:block>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Samstag, 21. November 2026</title>
+      <description>Schanis Morgenüberblick für Samstag, 21. November 2026: erst Österreich und die Welt, dann Finanzen, dann Tech und KI. Gekürzt und nacherzählt aus echten Podcast-Folgen, nichts dazugedichtet. Keine Anlageempfehlung.
+
+Quellen:
+- Podcast / Quelle: Folge / Artikel (Datum) Link
+- Ö1 Journale (ORF): Abendjournal um 18 (20.11.2026) – eigenes Transkript der ersten 13 min (Whisper small, lückenhaft). Samstags-Frühjournal war um 06:49 noch nicht im Feed. (20.11.2026, 18:58 Wien) https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-20112026
+- DER STANDARD: RSS-Schlagzeilen (abgerufen 21.11. ca. 06:45): ÖVP/Marterbauer, Deutsche-Bank-Leak, Jugendstreik Wien (60 Festnahmen), Anthropic-Mathematiker/Riemann (20./21.11.2026) https://www.derstandard.at/rss
+- DER STANDARD Thema des Tages: Sanitäter im Ukraine-Krieg: So ist es an der Front (Beschreibung) (21.11.2026, 06:00 Wien) https://themadestages.podigee.io/1966-sanitater-im-ukraine-krieg-so-ist-es-an-der-front
+- Alles auf Aktien (WELT): Anthropic, Nvidia, SAP – Pip Klöckner erklärt Euch den Crash – Beschreibung + eigenes Transkript (erste 12 min) (21.11.2026, 04:59 Wien) https://allesaufaktien.podigee.io/b1753-anthropic-nvidia-sap-pip-klockner-erklart-euch-den-crash
+- Ohne Aktien wird's schwer: So analysiert man Pharma-Aktien … Merck &amp; Keytruda (21.11.) + Gold: Wie lange fällt der Preis noch? (20.11.) (Beschreibungen) (21.11./20.11.2026, 03:00 Wien) https://feeds.megaphone.fm/PDS3666998460
+- Trending Topics Tech Talk: keine neue Folge im Zeitfenster (letzte 19.11.) (–) https://api.riverside.com/hosting/uw69nfsF.rss
+- heise KI-Update: KI-Update Deep-Dive: Smart Glasses als Alltagshilfe (Beschreibung + heise.de/-11530663) (20.11.2026, 15:00 Wien) https://kiupdate.podigee.io/688-20-11-2026
+- heise kurz informiert: Kurz informiert 20.11.2026 – spät (heise.de/-11531957, -11531961, -11532367, -11531999) (20.11.2026, 15:00 Wien) https://kurzinformiert.podigee.io/3031-kurz-informiert-20-11-2026-spat
+- The 404 Media Podcast: keine neue Folge im Zeitfenster (letzte 18.11.) (–) https://feeds.megaphone.fm/TBIEA2761282490
+- Wetter: Ö1 Abendjournal (wankelmütig, Schauer, kühlt ab) + Open-Meteo (abgerufen 21.11. 06:45): Bad Ischl aktuell 5,9 °C, Schauer; 21.11. 3,4–6,1 °C, 12,5 mm, 0 h Sonne; 22.11. 0,8–6,6 °C, leichter Regen, 0,5 h Sonne; 23.11. −0,3–3,3 °C, leichte Schneeschauer; Salzburg 21.11. 4,2–7,1 °C, 8,5 mm (21.11.2026) https://api.open-meteo.com/v1/forecast?latitude=47.71&amp;longitude=13.62</description>
+      <itunes:summary>Schanis Morgenüberblick für Samstag, 21. November 2026: erst Österreich und die Welt, dann Finanzen, dann Tech und KI. Gekürzt und nacherzählt aus echten Podcast-Folgen, nichts dazugedichtet. Keine Anlageempfehlung.
+
+Quellen:
+- Podcast / Quelle: Folge / Artikel (Datum) Link
+- Ö1 Journale (ORF): Abendjournal um 18 (20.11.2026) – eigenes Transkript der ersten 13 min (Whisper small, lückenhaft). Samstags-Frühjournal war um 06:49 noch nicht im Feed. (20.11.2026, 18:58 Wien) https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-20112026
+- DER STANDARD: RSS-Schlagzeilen (abgerufen 21.11. ca. 06:45): ÖVP/Marterbauer, Deutsche-Bank-Leak, Jugendstreik Wien (60 Festnahmen), Anthropic-Mathematiker/Riemann (20./21.11.2026) https://www.derstandard.at/rss
+- DER STANDARD Thema des Tages: Sanitäter im Ukraine-Krieg: So ist es an der Front (Beschreibung) (21.11.2026, 06:00 Wien) https://themadestages.podigee.io/1966-sanitater-im-ukraine-krieg-so-ist-es-an-der-front
+- Alles auf Aktien (WELT): Anthropic, Nvidia, SAP – Pip Klöckner erklärt Euch den Crash – Beschreibung + eigenes Transkript (erste 12 min) (21.11.2026, 04:59 Wien) https://allesaufaktien.podigee.io/b1753-anthropic-nvidia-sap-pip-klockner-erklart-euch-den-crash
+- Ohne Aktien wird's schwer: So analysiert man Pharma-Aktien … Merck &amp; Keytruda (21.11.) + Gold: Wie lange fällt der Preis noch? (20.11.) (Beschreibungen) (21.11./20.11.2026, 03:00 Wien) https://feeds.megaphone.fm/PDS3666998460
+- Trending Topics Tech Talk: keine neue Folge im Zeitfenster (letzte 19.11.) (–) https://api.riverside.com/hosting/uw69nfsF.rss
+- heise KI-Update: KI-Update Deep-Dive: Smart Glasses als Alltagshilfe (Beschreibung + heise.de/-11530663) (20.11.2026, 15:00 Wien) https://kiupdate.podigee.io/688-20-11-2026
+- heise kurz informiert: Kurz informiert 20.11.2026 – spät (heise.de/-11531957, -11531961, -11532367, -11531999) (20.11.2026, 15:00 Wien) https://kurzinformiert.podigee.io/3031-kurz-informiert-20-11-2026-spat
+- The 404 Media Podcast: keine neue Folge im Zeitfenster (letzte 18.11.) (–) https://feeds.megaphone.fm/TBIEA2761282490
+- Wetter: Ö1 Abendjournal (wankelmütig, Schauer, kühlt ab) + Open-Meteo (abgerufen 21.11. 06:45): Bad Ischl aktuell 5,9 °C, Schauer; 21.11. 3,4–6,1 °C, 12,5 mm, 0 h Sonne; 22.11. 0,8–6,6 °C, leichter Regen, 0,5 h Sonne; 23.11. −0,3–3,3 °C, leichte Schneeschauer; Salzburg 21.11. 4,2–7,1 °C, 8,5 mm (21.11.2026) https://api.open-meteo.com/v1/forecast?latitude=47.71&amp;longitude=13.62</itunes:summary>
+      <enclosure url="https://spencer-at.github.io/schani-podcast-fc13f351/episodes/2026-11-21.mp3" length="3759668" type="audio/mpeg"/>
+      <guid isPermaLink="false">schani-podcast-2026-11-21</guid>
+      <pubDate>Sat, 21 Nov 2026 07:00:00 +0100</pubDate>
+      <itunes:duration>376</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Freitag, 20. November 2026</title>
       <description>Schanis Morgenüberblick für Freitag, 20. November 2026: erst Österreich und die Welt, dann Finanzen, dann Tech und KI. Gekürzt und nacherzählt aus echten Podcast-Folgen, nichts dazugedichtet. Keine Anlageempfehlung.
