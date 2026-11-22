@@ -6,7 +6,7 @@
     <atom:link href="https://spencer-at.github.io/schani-podcast-fc13f351/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Privater Morgenüberblick für Wolfgang: Österreich und die Welt, Finanzen, Tech und KI. Nicht öffentlich gelistet.</description>
     <language>de-at</language>
-    <lastBuildDate>Sat, 21 Nov 2026 06:51:03 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 06:50:42 +0100</lastBuildDate>
     <itunes:author>Schani</itunes:author>
     <itunes:owner><itunes:name>Schani</itunes:name></itunes:owner>
     <itunes:image href="https://spencer-at.github.io/schani-podcast-fc13f351/cover.jpg"/>
@@ -15,6 +15,43 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>yes</itunes:block>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Sonntag, 22. November 2026</title>
+      <description>Schanis Morgenüberblick für Sonntag, 22. November 2026: erst Österreich und die Welt, dann Finanzen, dann Tech und KI. Gekürzt und nacherzählt aus echten Podcast-Folgen, nichts dazugedichtet. Keine Anlageempfehlung.
+
+Quellen:
+- Podcast / Quelle: Folge / Artikel (Datum) Link
+- Ö1 Journale (ORF): Mittagsjournal (21.11.2026) – eigenes Transkript der ersten 15 min (Whisper small, lückenhaft): EU-Finanzrahmen/Costa-Vorschlag, Klimakonferenz Antalya, Interview Alexander Pröll. Sonntags-Frühjournal war um 06:45 nicht im Feed; neuestes Journal verwendet. (21.11.2026, 13:38 CET (Wien)) https://sound.orf.at/podcast/oe1/oe1-journale/mittagsjournal-21112026
+- DER STANDARD: RSS-Schlagzeilen (abgerufen 22.11. ca. 06:45 CET): Mikl-Leitner (22.11. 06:00 CET), Nazi-Autobahn/ASFINAG-Studie (22.11. 06:00 CET), Livebericht russischer Frachter "Sparta 2" (21.11. 07:44 CET), Verstappen Las Vegas (22.11. 06:41 CET), Rapid–GAK 3:0 (21.11. 21:31 CET) (21./22.11.2026) https://www.derstandard.at/rss
+- DER STANDARD Thema des Tages: keine neue Folge seit 21.11.2026, 06:00 CET (–) https://themadestages.podigee.io/feed/mp3
+- Alles auf Aktien (WELT): Fit fürs AVD: Depot eröffnen, Aktien und ETFs verstehen – Beschreibung + eigenes Transkript (erste 10 min) (22.11.2026, 05:00 CET) https://allesaufaktien.podigee.io/b1755-fit-furs-avd-depot-eroffnen-aktien-und-etfs-verstehen
+- Ohne Aktien wird's schwer: keine neue Folge seit 21.11.2026, 03:00 CET (Pharma/Merck, gestern behandelt) (–) https://feeds.megaphone.fm/PDS3666998460
+- Trending Topics Tech Talk: keine neue Folge im 48-h-Fenster (–) https://api.riverside.com/hosting/uw69nfsF.rss
+- heise KI-Update / kurz informiert: keine neue Folge seit 20.11.2026, 15:00 CET (–) https://kiupdate.podigee.io/ , https://kurzinformiert.podigee.io/
+- heise online (News): Killer-Roboter: UN-Konferenz ohne Mandat (21.11. 17:28 CET); Fünf EU-Staaten wollen KI-Verteidigungszentrum (21.11. 15:48 CET); FBI-Datenbank NCIC angegriffen (21.11. 14:47 CET); Internet Archive Gewerkschaft (21.11. 18:22 CET) – jeweils Teaser (21.11.2026) https://www.heise.de/news/Killer-Roboter-UN-Konferenz-endet-ohne-Mandat-fuer-verbindliches-Verbot-11533596.html ; https://www.heise.de/news/Fuenf-EU-Staaten-wollen-Zentrum-fuer-KI-in-der-Verteidigung-gruenden-11533498.html ; https://www.heise.de/news/Medienbericht-Zentrale-FBI-Datenbank-angegriffen-11533560.html ; https://www.heise.de/news/Internet-Archive-soll-Gewerkschaft-bekommen-11533592.html
+- The 404 Media Podcast: keine neue Folge im 48-h-Fenster (–) https://feeds.megaphone.fm/TBIEA2761282490
+- Wetter (Open-Meteo): abgerufen 22.11. 06:44 CET: Bad Ischl aktuell 0,4 °C, Nebel; 22.11. 0,3–6,9 °C, 0,1 mm, 2,1 h Sonne; 23.11. −0,3–2,9 °C, 0,0 mm, 1,4 h Sonne; 24.11. −1,7–2,9 °C, 7,8 h Sonne. Salzburg aktuell −0,3 °C, Nebel; 22.11. −0,4–4,5 °C, 0,2 mm, 0,1 h Sonne (22.11.2026) https://api.open-meteo.com/v1/forecast?latitude=47.71&amp;longitude=13.62 ; …latitude=47.80&amp;longitude=13.04</description>
+      <itunes:summary>Schanis Morgenüberblick für Sonntag, 22. November 2026: erst Österreich und die Welt, dann Finanzen, dann Tech und KI. Gekürzt und nacherzählt aus echten Podcast-Folgen, nichts dazugedichtet. Keine Anlageempfehlung.
+
+Quellen:
+- Podcast / Quelle: Folge / Artikel (Datum) Link
+- Ö1 Journale (ORF): Mittagsjournal (21.11.2026) – eigenes Transkript der ersten 15 min (Whisper small, lückenhaft): EU-Finanzrahmen/Costa-Vorschlag, Klimakonferenz Antalya, Interview Alexander Pröll. Sonntags-Frühjournal war um 06:45 nicht im Feed; neuestes Journal verwendet. (21.11.2026, 13:38 CET (Wien)) https://sound.orf.at/podcast/oe1/oe1-journale/mittagsjournal-21112026
+- DER STANDARD: RSS-Schlagzeilen (abgerufen 22.11. ca. 06:45 CET): Mikl-Leitner (22.11. 06:00 CET), Nazi-Autobahn/ASFINAG-Studie (22.11. 06:00 CET), Livebericht russischer Frachter "Sparta 2" (21.11. 07:44 CET), Verstappen Las Vegas (22.11. 06:41 CET), Rapid–GAK 3:0 (21.11. 21:31 CET) (21./22.11.2026) https://www.derstandard.at/rss
+- DER STANDARD Thema des Tages: keine neue Folge seit 21.11.2026, 06:00 CET (–) https://themadestages.podigee.io/feed/mp3
+- Alles auf Aktien (WELT): Fit fürs AVD: Depot eröffnen, Aktien und ETFs verstehen – Beschreibung + eigenes Transkript (erste 10 min) (22.11.2026, 05:00 CET) https://allesaufaktien.podigee.io/b1755-fit-furs-avd-depot-eroffnen-aktien-und-etfs-verstehen
+- Ohne Aktien wird's schwer: keine neue Folge seit 21.11.2026, 03:00 CET (Pharma/Merck, gestern behandelt) (–) https://feeds.megaphone.fm/PDS3666998460
+- Trending Topics Tech Talk: keine neue Folge im 48-h-Fenster (–) https://api.riverside.com/hosting/uw69nfsF.rss
+- heise KI-Update / kurz informiert: keine neue Folge seit 20.11.2026, 15:00 CET (–) https://kiupdate.podigee.io/ , https://kurzinformiert.podigee.io/
+- heise online (News): Killer-Roboter: UN-Konferenz ohne Mandat (21.11. 17:28 CET); Fünf EU-Staaten wollen KI-Verteidigungszentrum (21.11. 15:48 CET); FBI-Datenbank NCIC angegriffen (21.11. 14:47 CET); Internet Archive Gewerkschaft (21.11. 18:22 CET) – jeweils Teaser (21.11.2026) https://www.heise.de/news/Killer-Roboter-UN-Konferenz-endet-ohne-Mandat-fuer-verbindliches-Verbot-11533596.html ; https://www.heise.de/news/Fuenf-EU-Staaten-wollen-Zentrum-fuer-KI-in-der-Verteidigung-gruenden-11533498.html ; https://www.heise.de/news/Medienbericht-Zentrale-FBI-Datenbank-angegriffen-11533560.html ; https://www.heise.de/news/Internet-Archive-soll-Gewerkschaft-bekommen-11533592.html
+- The 404 Media Podcast: keine neue Folge im 48-h-Fenster (–) https://feeds.megaphone.fm/TBIEA2761282490
+- Wetter (Open-Meteo): abgerufen 22.11. 06:44 CET: Bad Ischl aktuell 0,4 °C, Nebel; 22.11. 0,3–6,9 °C, 0,1 mm, 2,1 h Sonne; 23.11. −0,3–2,9 °C, 0,0 mm, 1,4 h Sonne; 24.11. −1,7–2,9 °C, 7,8 h Sonne. Salzburg aktuell −0,3 °C, Nebel; 22.11. −0,4–4,5 °C, 0,2 mm, 0,1 h Sonne (22.11.2026) https://api.open-meteo.com/v1/forecast?latitude=47.71&amp;longitude=13.62 ; …latitude=47.80&amp;longitude=13.04</itunes:summary>
+      <enclosure url="https://spencer-at.github.io/schani-podcast-fc13f351/episodes/2026-11-22.mp3" length="3246623" type="audio/mpeg"/>
+      <guid isPermaLink="false">schani-podcast-2026-11-22</guid>
+      <pubDate>Sun, 22 Nov 2026 07:00:00 +0100</pubDate>
+      <itunes:duration>325</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Samstag, 21. November 2026</title>
       <description>Schanis Morgenüberblick für Samstag, 21. November 2026: erst Österreich und die Welt, dann Finanzen, dann Tech und KI. Gekürzt und nacherzählt aus echten Podcast-Folgen, nichts dazugedichtet. Keine Anlageempfehlung.
