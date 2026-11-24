@@ -6,7 +6,7 @@
     <atom:link href="https://spencer-at.github.io/schani-podcast-fc13f351/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Privater Morgenüberblick für Wolfgang: Österreich und die Welt, Finanzen, Tech und KI. Nicht öffentlich gelistet.</description>
     <language>de-at</language>
-    <lastBuildDate>Mon, 23 Nov 2026 06:47:57 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 06:49:16 +0100</lastBuildDate>
     <itunes:author>Schani</itunes:author>
     <itunes:owner><itunes:name>Schani</itunes:name></itunes:owner>
     <itunes:image href="https://spencer-at.github.io/schani-podcast-fc13f351/cover.jpg"/>
@@ -15,6 +15,45 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>yes</itunes:block>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Dienstag, 24. November 2026</title>
+      <description>Schanis Morgenüberblick für Dienstag, 24. November 2026: erst Österreich und die Welt, dann Finanzen, dann Tech und KI. Gekürzt und nacherzählt aus echten Podcast-Folgen, nichts dazugedichtet. Keine Anlageempfehlung.
+
+Quellen:
+- Quelle: Folge / Artikel (Datum) Link
+- Ö1 Journale (ORF): Frühjournal um 6 (24.11.2026) – eigenes Transkript der ersten 10 min (Whisper small, in 1-min-Stücken, stellenweise lückenhaft): Nvidia/Huang, VW-Haustarif Emden, U-Ausschuss Pilnacek/Sobotka, APG Rechenzentren 6.000 MW, Visegrád-Gipfel Bratislava, Supermond, Wetter (24.11.2026, 06:17 CET (Wien)) https://sound.orf.at/podcast/oe1/oe1-journale/fruehjournal-um-6-24112026
+- ZIB2-Podcast (ORF): Zu Gast: Robert Kert und Sonja Aziz – Sexualstrafrecht (nur Beschreibung) (23.11.2026, 23:14 CET) https://sound.orf.at/podcast/tv/zib2-podcast/zu-gast-robert-kert-professor-fuer-strafrecht-wirtschaftsuniversitaet-wien-und-sonja-aziz-opferanwaeltin
+- DER STANDARD Thema des Tages: Nvidia: Warum der Skandal CEO zurück ist – Eric Frey (nur Beschreibung) (24.11.2026, 05:30 CET) https://themadestages.podigee.io/1974-breaking-warum-der-geschasste-ceo-von-nvidia-zuruck-ist
+- Was jetzt? (DIE ZEIT): Der Alltag wird teurer. Aber ist das schon Krise? (Beschreibung; Frachter Sparta II) (24.11.2026, 05:55 CET) https://www.zeit.de/was-jetzt
+- Alles auf Aktien (WELT): Das unglaubliche Nvidia-Comeback und der Anti-Megacap-ETF – Beschreibung + eigenes Transkript (erste 10 min) (24.11.2026, 04:45 CET) https://allesaufaktien.podigee.io/1757-das-unglaubliche-nvidia-comeback-und-der-anti-megacap-etf
+- Ohne Aktien wird's schwer: Jensen Huang ist zurück. CrowdStrike kauft Zscaler. Sauna-Wette: Harvia. (nur Beschreibung) (24.11.2026, 03:00 CET) https://feeds.megaphone.fm/PDS3666998460
+- Trending Topics Tech Talk: keine neue Folge seit 23.11.2026, 05:00 CET (–) https://api.riverside.com/hosting/uw69nfsF.rss
+- kurz informiert (heise online): Kurz informiert 24.11.2026 – früh (Shownotes + Artikel heise.de/-11534936, -11535252, -11534371) (24.11.2026, 05:30 CET) https://kurzinformiert.podigee.io/3034-kurz-informiert-24-11-2026-fruh
+- heise KI-Update: KI-Update kompakt 23.11.2026 (Begleitartikel heise.de/-11532019) (23.11.2026, 15:00 CET) https://kiupdate.podigee.io/689-23-11-2026
+- The 404 Media Podcast: How OpenAI’s Hacking AI Spiraled Out-of-Control (nur Beschreibung) (23.11.2026, 12:00 CET) https://feeds.megaphone.fm/TBIEA2761282490
+- Wetter (Open-Meteo): abgerufen 24.11. ca. 06:45 CET: Bad Ischl aktuell −0,8 °C, Code 3 (bedeckt); 24.11. −1,2–3,5 °C, 0,0 mm; 25.11. −1,0–6,1 °C, 0,0 mm; 26.11. −1,1–0,5 °C, 7,2 mm, 2,31 cm Schnee (94 %) (24.11.2026) https://api.open-meteo.com/v1/forecast?latitude=47.711&amp;longitude=13.62</description>
+      <itunes:summary>Schanis Morgenüberblick für Dienstag, 24. November 2026: erst Österreich und die Welt, dann Finanzen, dann Tech und KI. Gekürzt und nacherzählt aus echten Podcast-Folgen, nichts dazugedichtet. Keine Anlageempfehlung.
+
+Quellen:
+- Quelle: Folge / Artikel (Datum) Link
+- Ö1 Journale (ORF): Frühjournal um 6 (24.11.2026) – eigenes Transkript der ersten 10 min (Whisper small, in 1-min-Stücken, stellenweise lückenhaft): Nvidia/Huang, VW-Haustarif Emden, U-Ausschuss Pilnacek/Sobotka, APG Rechenzentren 6.000 MW, Visegrád-Gipfel Bratislava, Supermond, Wetter (24.11.2026, 06:17 CET (Wien)) https://sound.orf.at/podcast/oe1/oe1-journale/fruehjournal-um-6-24112026
+- ZIB2-Podcast (ORF): Zu Gast: Robert Kert und Sonja Aziz – Sexualstrafrecht (nur Beschreibung) (23.11.2026, 23:14 CET) https://sound.orf.at/podcast/tv/zib2-podcast/zu-gast-robert-kert-professor-fuer-strafrecht-wirtschaftsuniversitaet-wien-und-sonja-aziz-opferanwaeltin
+- DER STANDARD Thema des Tages: Nvidia: Warum der Skandal CEO zurück ist – Eric Frey (nur Beschreibung) (24.11.2026, 05:30 CET) https://themadestages.podigee.io/1974-breaking-warum-der-geschasste-ceo-von-nvidia-zuruck-ist
+- Was jetzt? (DIE ZEIT): Der Alltag wird teurer. Aber ist das schon Krise? (Beschreibung; Frachter Sparta II) (24.11.2026, 05:55 CET) https://www.zeit.de/was-jetzt
+- Alles auf Aktien (WELT): Das unglaubliche Nvidia-Comeback und der Anti-Megacap-ETF – Beschreibung + eigenes Transkript (erste 10 min) (24.11.2026, 04:45 CET) https://allesaufaktien.podigee.io/1757-das-unglaubliche-nvidia-comeback-und-der-anti-megacap-etf
+- Ohne Aktien wird's schwer: Jensen Huang ist zurück. CrowdStrike kauft Zscaler. Sauna-Wette: Harvia. (nur Beschreibung) (24.11.2026, 03:00 CET) https://feeds.megaphone.fm/PDS3666998460
+- Trending Topics Tech Talk: keine neue Folge seit 23.11.2026, 05:00 CET (–) https://api.riverside.com/hosting/uw69nfsF.rss
+- kurz informiert (heise online): Kurz informiert 24.11.2026 – früh (Shownotes + Artikel heise.de/-11534936, -11535252, -11534371) (24.11.2026, 05:30 CET) https://kurzinformiert.podigee.io/3034-kurz-informiert-24-11-2026-fruh
+- heise KI-Update: KI-Update kompakt 23.11.2026 (Begleitartikel heise.de/-11532019) (23.11.2026, 15:00 CET) https://kiupdate.podigee.io/689-23-11-2026
+- The 404 Media Podcast: How OpenAI’s Hacking AI Spiraled Out-of-Control (nur Beschreibung) (23.11.2026, 12:00 CET) https://feeds.megaphone.fm/TBIEA2761282490
+- Wetter (Open-Meteo): abgerufen 24.11. ca. 06:45 CET: Bad Ischl aktuell −0,8 °C, Code 3 (bedeckt); 24.11. −1,2–3,5 °C, 0,0 mm; 25.11. −1,0–6,1 °C, 0,0 mm; 26.11. −1,1–0,5 °C, 7,2 mm, 2,31 cm Schnee (94 %) (24.11.2026) https://api.open-meteo.com/v1/forecast?latitude=47.711&amp;longitude=13.62</itunes:summary>
+      <enclosure url="https://spencer-at.github.io/schani-podcast-fc13f351/episodes/2026-11-24.mp3" length="4153594" type="audio/mpeg"/>
+      <guid isPermaLink="false">schani-podcast-2026-11-24</guid>
+      <pubDate>Tue, 24 Nov 2026 07:00:00 +0100</pubDate>
+      <itunes:duration>415</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Montag, 23. November 2026</title>
       <description>Schanis Morgenüberblick für Montag, 23. November 2026: erst Österreich und die Welt, dann Finanzen, dann Tech und KI. Gekürzt und nacherzählt aus echten Podcast-Folgen, nichts dazugedichtet. Keine Anlageempfehlung.
