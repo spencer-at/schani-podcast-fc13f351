@@ -6,7 +6,7 @@
     <atom:link href="https://spencer-at.github.io/schani-podcast-fc13f351/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Privater Morgenüberblick für Wolfgang: Österreich und die Welt, Finanzen, Tech und KI. Nicht öffentlich gelistet.</description>
     <language>de-at</language>
-    <lastBuildDate>Tue, 24 Nov 2026 06:49:16 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 06:48:21 +0100</lastBuildDate>
     <itunes:author>Schani</itunes:author>
     <itunes:owner><itunes:name>Schani</itunes:name></itunes:owner>
     <itunes:image href="https://spencer-at.github.io/schani-podcast-fc13f351/cover.jpg"/>
@@ -15,6 +15,41 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>yes</itunes:block>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Mittwoch, 25. November 2026</title>
+      <description>Schanis Morgenüberblick für Mittwoch, 25. November 2026: erst Österreich und die Welt, dann Finanzen, dann Tech und KI. Gekürzt und nacherzählt aus echten Podcast-Folgen, nichts dazugedichtet. Keine Anlageempfehlung.
+
+Quellen:
+- Quelle: Folge / Artikel (Datum) Link
+- Ö1 Journale (ORF): Frühjournal um 6 (25.11.2026) – eigenes Transkript (Whisper small, stellenweise lückenhaft): 16 Tage gegen Gewalt, Länderschulden/Defizitverfahren, Strache Novomatic-Prozess, Huang vor Kongress/FT zu Trump, K.-o.-Tropfen-Nachweis Seibersdorf, LASK 0:1, Wetter (25.11.2026, 06:16 CET) https://sound.orf.at/podcast/oe1/oe1-journale/fruehjournal-um-6-25112026
+- DER STANDARD Thema des Tages: Wie sich die Republikaner selbst mit Shit geflutet haben – Anton Rainer (nur Beschreibung) (25.11.2026, 05:30 CET) https://themadestages.podigee.io/1971-wie-die-republikaner-sich-selbst-mit-shit-geflutet-haben
+- Alles auf Aktien (WELT): Anthropics Absturz und die unterschätzte KI-Wette – eigenes Transkript + Beschreibung (25.11.2026, 04:59 CET) https://allesaufaktien.podigee.io/1758-anthropics-absturz-und-die-unterschatzte-ki-wette
+- Ohne Aktien wird's schwer: SharkNinja im S&amp;P 500 nach 440% Rendite. Sanofi schafft Klippensprung … (nur Beschreibung) (25.11.2026, 03:00 CET) https://feeds.megaphone.fm/PDS3666998460
+- Trending Topics Tech Talk: Is OpenAI cooked? „Medium rare“ – Wasner + Steinschaden #34 (nur Beschreibung) (25.11.2026, 05:45 CET) https://api.riverside.com/hosting/uw69nfsF.rss
+- kurz informiert (heise online): Kurz informiert 25.11.2026 – früh (Shownotes + Artikel heise.de/-11536410, -11536290, -11536016, -11535956, -11536848) (25.11.2026, 05:30 CET) https://kurzinformiert.podigee.io/3036-kurz-informiert-25-11-2026-fruh
+- heise KI-Update: keine neue Folge seit 23.11.2026, 15:00 CET (–) https://kiupdate.podigee.io/
+- The 404 Media Podcast: keine neue Folge seit 23.11.2026, 12:00 CET (–) https://feeds.megaphone.fm/TBIEA2761282490
+- Wetter (Open-Meteo): abgerufen 25.11. ca. 06:45 CET: Bad Ischl aktuell −0,5 °C, Code 3; 25.11. −1,4–6,8 °C, 0,0 mm; 26.11. −2,2 – −0,1 °C, 8,5 mm, 5,32 cm Schnee; 27.11. −3,3–1,6 °C, 0,89 mm, 0,55 cm Schnee (25.11.2026) https://api.open-meteo.com/v1/forecast?latitude=47.71&amp;longitude=13.62</description>
+      <itunes:summary>Schanis Morgenüberblick für Mittwoch, 25. November 2026: erst Österreich und die Welt, dann Finanzen, dann Tech und KI. Gekürzt und nacherzählt aus echten Podcast-Folgen, nichts dazugedichtet. Keine Anlageempfehlung.
+
+Quellen:
+- Quelle: Folge / Artikel (Datum) Link
+- Ö1 Journale (ORF): Frühjournal um 6 (25.11.2026) – eigenes Transkript (Whisper small, stellenweise lückenhaft): 16 Tage gegen Gewalt, Länderschulden/Defizitverfahren, Strache Novomatic-Prozess, Huang vor Kongress/FT zu Trump, K.-o.-Tropfen-Nachweis Seibersdorf, LASK 0:1, Wetter (25.11.2026, 06:16 CET) https://sound.orf.at/podcast/oe1/oe1-journale/fruehjournal-um-6-25112026
+- DER STANDARD Thema des Tages: Wie sich die Republikaner selbst mit Shit geflutet haben – Anton Rainer (nur Beschreibung) (25.11.2026, 05:30 CET) https://themadestages.podigee.io/1971-wie-die-republikaner-sich-selbst-mit-shit-geflutet-haben
+- Alles auf Aktien (WELT): Anthropics Absturz und die unterschätzte KI-Wette – eigenes Transkript + Beschreibung (25.11.2026, 04:59 CET) https://allesaufaktien.podigee.io/1758-anthropics-absturz-und-die-unterschatzte-ki-wette
+- Ohne Aktien wird's schwer: SharkNinja im S&amp;P 500 nach 440% Rendite. Sanofi schafft Klippensprung … (nur Beschreibung) (25.11.2026, 03:00 CET) https://feeds.megaphone.fm/PDS3666998460
+- Trending Topics Tech Talk: Is OpenAI cooked? „Medium rare“ – Wasner + Steinschaden #34 (nur Beschreibung) (25.11.2026, 05:45 CET) https://api.riverside.com/hosting/uw69nfsF.rss
+- kurz informiert (heise online): Kurz informiert 25.11.2026 – früh (Shownotes + Artikel heise.de/-11536410, -11536290, -11536016, -11535956, -11536848) (25.11.2026, 05:30 CET) https://kurzinformiert.podigee.io/3036-kurz-informiert-25-11-2026-fruh
+- heise KI-Update: keine neue Folge seit 23.11.2026, 15:00 CET (–) https://kiupdate.podigee.io/
+- The 404 Media Podcast: keine neue Folge seit 23.11.2026, 12:00 CET (–) https://feeds.megaphone.fm/TBIEA2761282490
+- Wetter (Open-Meteo): abgerufen 25.11. ca. 06:45 CET: Bad Ischl aktuell −0,5 °C, Code 3; 25.11. −1,4–6,8 °C, 0,0 mm; 26.11. −2,2 – −0,1 °C, 8,5 mm, 5,32 cm Schnee; 27.11. −3,3–1,6 °C, 0,89 mm, 0,55 cm Schnee (25.11.2026) https://api.open-meteo.com/v1/forecast?latitude=47.71&amp;longitude=13.62</itunes:summary>
+      <enclosure url="https://spencer-at.github.io/schani-podcast-fc13f351/episodes/2026-11-25.mp3" length="4288647" type="audio/mpeg"/>
+      <guid isPermaLink="false">schani-podcast-2026-11-25</guid>
+      <pubDate>Wed, 25 Nov 2026 07:00:00 +0100</pubDate>
+      <itunes:duration>429</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Dienstag, 24. November 2026</title>
       <description>Schanis Morgenüberblick für Dienstag, 24. November 2026: erst Österreich und die Welt, dann Finanzen, dann Tech und KI. Gekürzt und nacherzählt aus echten Podcast-Folgen, nichts dazugedichtet. Keine Anlageempfehlung.
