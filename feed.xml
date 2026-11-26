@@ -6,7 +6,7 @@
     <atom:link href="https://spencer-at.github.io/schani-podcast-fc13f351/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Privater Morgenüberblick für Wolfgang: Österreich und die Welt, Finanzen, Tech und KI. Nicht öffentlich gelistet.</description>
     <language>de-at</language>
-    <lastBuildDate>Wed, 25 Nov 2026 06:48:21 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 06:45:14 +0100</lastBuildDate>
     <itunes:author>Schani</itunes:author>
     <itunes:owner><itunes:name>Schani</itunes:name></itunes:owner>
     <itunes:image href="https://spencer-at.github.io/schani-podcast-fc13f351/cover.jpg"/>
@@ -15,6 +15,41 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>yes</itunes:block>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Donnerstag, 26. November 2026</title>
+      <description>Schanis Morgenüberblick für Donnerstag, 26. November 2026: erst Österreich und die Welt, dann Finanzen, dann Tech und KI. Gekürzt und nacherzählt aus echten Podcast-Folgen, nichts dazugedichtet. Keine Anlageempfehlung.
+
+Quellen:
+- Quelle: Folge/Artikel (Datum) Link
+- Ö1 Journale: Frühjournal um 6 (26.11.2026), eigenes Transkript, teils lückenhaft (2026-11-26 06:18 CET) https://sound.orf.at/podcast/oe1/oe1-journale/fruehjournal-um-6-26112026
+- Der Standard – Thema des Tages: Das ist jetzt Trumps größte Angst – Cathryn Clüver-Ashbrook (2026-11-26 05:30 CET) https://themadestages.podigee.io/1976-kommt-trump-mit-allem-davon-cathryn-cluver-ashbrook
+- Alles auf Aktien: Die Rückkehr der Zölle und so macht KI Euch zu besseren Anlegern (eigenes Transkript) (2026-11-26 04:59 CET) https://allesaufaktien.podigee.io/1759-die-ruckkehr-der-zolle-und-so-macht-ki-euch-zu-besseren-anlegern
+- Ohne Aktien wird's schwer: Zukunftswette: E-Busse. Duft-Kartell. Tech &amp; Bitcoin fallen … (Beschreibung) (2026-11-26 03:00 CET) https://pdst.fm/e/traffic.megaphone.fm/PDS5434510654.mp3
+- Trending Topics Tech Talk: keine neue Folge seit 25.11. (#34, bereits gestern verwendet) (2026-11-25 05:45 CET) –
+- heise kurz informiert: Kurz informiert 26.11.2026 – früh + verlinkte Artikel (2026-11-26 05:30 CET) https://kurzinformiert.podigee.io/3038-kurz-informiert-26-11-2026-fruh ; https://heise.de/-11538170 ; https://heise.de/-11538214 ; https://heise.de/-11537601 ; https://heise.de/-11536995 ; https://heise.de/-11538050
+- heise KI-Update: KI-Update kompakt: Nvidia, KI-Migrationsgesetz, Valiants Vermutung, Perplexity (2026-11-25 15:00 CET) https://heise.de/-11536344
+- 404 Media Podcast: The AI Hacking Tool Causing Havoc Around the World (Beschreibung) (2026-11-25 12:00 CET) https://404media.co
+- Open-Meteo: Bad Ischl, aktuell + 3 Tage, abgerufen 2026-11-26 06:4x CET (2026-11-26) https://api.open-meteo.com/v1/forecast?latitude=47.711&amp;longitude=13.62</description>
+      <itunes:summary>Schanis Morgenüberblick für Donnerstag, 26. November 2026: erst Österreich und die Welt, dann Finanzen, dann Tech und KI. Gekürzt und nacherzählt aus echten Podcast-Folgen, nichts dazugedichtet. Keine Anlageempfehlung.
+
+Quellen:
+- Quelle: Folge/Artikel (Datum) Link
+- Ö1 Journale: Frühjournal um 6 (26.11.2026), eigenes Transkript, teils lückenhaft (2026-11-26 06:18 CET) https://sound.orf.at/podcast/oe1/oe1-journale/fruehjournal-um-6-26112026
+- Der Standard – Thema des Tages: Das ist jetzt Trumps größte Angst – Cathryn Clüver-Ashbrook (2026-11-26 05:30 CET) https://themadestages.podigee.io/1976-kommt-trump-mit-allem-davon-cathryn-cluver-ashbrook
+- Alles auf Aktien: Die Rückkehr der Zölle und so macht KI Euch zu besseren Anlegern (eigenes Transkript) (2026-11-26 04:59 CET) https://allesaufaktien.podigee.io/1759-die-ruckkehr-der-zolle-und-so-macht-ki-euch-zu-besseren-anlegern
+- Ohne Aktien wird's schwer: Zukunftswette: E-Busse. Duft-Kartell. Tech &amp; Bitcoin fallen … (Beschreibung) (2026-11-26 03:00 CET) https://pdst.fm/e/traffic.megaphone.fm/PDS5434510654.mp3
+- Trending Topics Tech Talk: keine neue Folge seit 25.11. (#34, bereits gestern verwendet) (2026-11-25 05:45 CET) –
+- heise kurz informiert: Kurz informiert 26.11.2026 – früh + verlinkte Artikel (2026-11-26 05:30 CET) https://kurzinformiert.podigee.io/3038-kurz-informiert-26-11-2026-fruh ; https://heise.de/-11538170 ; https://heise.de/-11538214 ; https://heise.de/-11537601 ; https://heise.de/-11536995 ; https://heise.de/-11538050
+- heise KI-Update: KI-Update kompakt: Nvidia, KI-Migrationsgesetz, Valiants Vermutung, Perplexity (2026-11-25 15:00 CET) https://heise.de/-11536344
+- 404 Media Podcast: The AI Hacking Tool Causing Havoc Around the World (Beschreibung) (2026-11-25 12:00 CET) https://404media.co
+- Open-Meteo: Bad Ischl, aktuell + 3 Tage, abgerufen 2026-11-26 06:4x CET (2026-11-26) https://api.open-meteo.com/v1/forecast?latitude=47.711&amp;longitude=13.62</itunes:summary>
+      <enclosure url="https://spencer-at.github.io/schani-podcast-fc13f351/episodes/2026-11-26.mp3" length="4637643" type="audio/mpeg"/>
+      <guid isPermaLink="false">schani-podcast-2026-11-26</guid>
+      <pubDate>Thu, 26 Nov 2026 07:00:00 +0100</pubDate>
+      <itunes:duration>464</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Mittwoch, 25. November 2026</title>
       <description>Schanis Morgenüberblick für Mittwoch, 25. November 2026: erst Österreich und die Welt, dann Finanzen, dann Tech und KI. Gekürzt und nacherzählt aus echten Podcast-Folgen, nichts dazugedichtet. Keine Anlageempfehlung.
