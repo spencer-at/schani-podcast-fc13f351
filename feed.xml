@@ -6,7 +6,7 @@
     <atom:link href="https://spencer-at.github.io/schani-podcast-fc13f351/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Privater Morgenüberblick für Wolfgang: Österreich und die Welt, Finanzen, Tech und KI. Nicht öffentlich gelistet.</description>
     <language>de-at</language>
-    <lastBuildDate>Thu, 26 Nov 2026 06:45:14 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 06:50:57 +0100</lastBuildDate>
     <itunes:author>Schani</itunes:author>
     <itunes:owner><itunes:name>Schani</itunes:name></itunes:owner>
     <itunes:image href="https://spencer-at.github.io/schani-podcast-fc13f351/cover.jpg"/>
@@ -15,6 +15,45 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>yes</itunes:block>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Freitag, 27. November 2026</title>
+      <description>Schanis Morgenüberblick für Freitag, 27. November 2026: erst Österreich und die Welt, dann Finanzen, dann Tech und KI. Gekürzt und nacherzählt aus echten Podcast-Folgen, nichts dazugedichtet. Keine Anlageempfehlung.
+
+Quellen:
+- Quelle: Folge/Artikel (Datum) Link
+- Ö1 Journale: Frühjournal um 6 (27.11.2026), eigenes Transkript (Whisper medium), teils lückenhaft (2026-11-27 06:19 CET) https://sound.orf.at/podcast/oe1/oe1-journale/fruehjournal-um-6-27112026
+- ORF.at: Spritpreis: Hattmannsdorfer für Ende des Margeneingriffs; Trump offen für Besuch Putins bei G20; Merz: Europa und USA einig über Sicherheitsgarantien (abgerufen 2026-11-27 ~06:50 CET) https://orf.at/
+- Der Standard – Thema des Tages: Das ist Russlands Albtraum an der Front – Torsten Heinrich (Beschreibung) (2026-11-27 05:30 CET) https://themadestages.podigee.io/1977-das-ist-russlands-albtraum-an-der-front-torsten-heinrich
+- Alles auf Aktien: Der historische SpaceX-Coup fürs All und 4 Lehren der Mega-IPOs (eigenes Transkript, teils lückenhaft) (2026-11-27 04:59 CET) https://allesaufaktien.podigee.io/1760-der-historische-spacex-coup-furs-all-und-4-lehren-der-mega-ipos
+- Ohne Aktien wird's schwer: Leopold Aschenbrenner sehr bullish bei Anthropic. Tabak-Deal, NVIDIA-Blockade, SAP-Entlassung (Beschreibung) (2026-11-27 03:00 CET) https://pdst.fm/e/traffic.megaphone.fm/PDS2349711368.mp3
+- Trending Topics Tech Talk: keine Folge im 48-h-Fenster (–) –
+- heise kurz informiert: Kurz informiert 27.11.2026 – früh + verlinkte Artikel (2026-11-27 05:30 CET) https://kurzinformiert.podigee.io/3040-kurz-informiert-27-11-2026-fruh ; https://heise.de/-11539781 ; https://heise.de/-11538771 ; https://heise.de/-11539155 ; https://heise.de/-11539255 ; https://heise.de/-11539133
+- heise KI-Update: KI-Update kompakt: Nvidia, KI-Migrationsgesetz, Valiants Vermutung, Perplexity (weitere Meldungen) (2026-11-25 15:00 CET) https://heise.de/-11536344
+- 404 Media Podcast: keine neue Folge seit 25.11. (2026-11-25 12:00 CET) https://404media.co
+- Open-Meteo: Bad Ischl, aktuell + 3 Tage, abgerufen 2026-11-27 ~06:50 CET (2026-11-27) https://api.open-meteo.com/v1/forecast?latitude=47.711&amp;longitude=13.62
+- Reiseliste Travel Schani: /workspace/reisen/geplante_reisen.md (Stand 2026-11-26) (–) –</description>
+      <itunes:summary>Schanis Morgenüberblick für Freitag, 27. November 2026: erst Österreich und die Welt, dann Finanzen, dann Tech und KI. Gekürzt und nacherzählt aus echten Podcast-Folgen, nichts dazugedichtet. Keine Anlageempfehlung.
+
+Quellen:
+- Quelle: Folge/Artikel (Datum) Link
+- Ö1 Journale: Frühjournal um 6 (27.11.2026), eigenes Transkript (Whisper medium), teils lückenhaft (2026-11-27 06:19 CET) https://sound.orf.at/podcast/oe1/oe1-journale/fruehjournal-um-6-27112026
+- ORF.at: Spritpreis: Hattmannsdorfer für Ende des Margeneingriffs; Trump offen für Besuch Putins bei G20; Merz: Europa und USA einig über Sicherheitsgarantien (abgerufen 2026-11-27 ~06:50 CET) https://orf.at/
+- Der Standard – Thema des Tages: Das ist Russlands Albtraum an der Front – Torsten Heinrich (Beschreibung) (2026-11-27 05:30 CET) https://themadestages.podigee.io/1977-das-ist-russlands-albtraum-an-der-front-torsten-heinrich
+- Alles auf Aktien: Der historische SpaceX-Coup fürs All und 4 Lehren der Mega-IPOs (eigenes Transkript, teils lückenhaft) (2026-11-27 04:59 CET) https://allesaufaktien.podigee.io/1760-der-historische-spacex-coup-furs-all-und-4-lehren-der-mega-ipos
+- Ohne Aktien wird's schwer: Leopold Aschenbrenner sehr bullish bei Anthropic. Tabak-Deal, NVIDIA-Blockade, SAP-Entlassung (Beschreibung) (2026-11-27 03:00 CET) https://pdst.fm/e/traffic.megaphone.fm/PDS2349711368.mp3
+- Trending Topics Tech Talk: keine Folge im 48-h-Fenster (–) –
+- heise kurz informiert: Kurz informiert 27.11.2026 – früh + verlinkte Artikel (2026-11-27 05:30 CET) https://kurzinformiert.podigee.io/3040-kurz-informiert-27-11-2026-fruh ; https://heise.de/-11539781 ; https://heise.de/-11538771 ; https://heise.de/-11539155 ; https://heise.de/-11539255 ; https://heise.de/-11539133
+- heise KI-Update: KI-Update kompakt: Nvidia, KI-Migrationsgesetz, Valiants Vermutung, Perplexity (weitere Meldungen) (2026-11-25 15:00 CET) https://heise.de/-11536344
+- 404 Media Podcast: keine neue Folge seit 25.11. (2026-11-25 12:00 CET) https://404media.co
+- Open-Meteo: Bad Ischl, aktuell + 3 Tage, abgerufen 2026-11-27 ~06:50 CET (2026-11-27) https://api.open-meteo.com/v1/forecast?latitude=47.711&amp;longitude=13.62
+- Reiseliste Travel Schani: /workspace/reisen/geplante_reisen.md (Stand 2026-11-26) (–) –</itunes:summary>
+      <enclosure url="https://spencer-at.github.io/schani-podcast-fc13f351/episodes/2026-11-27.mp3" length="3913529" type="audio/mpeg"/>
+      <guid isPermaLink="false">schani-podcast-2026-11-27</guid>
+      <pubDate>Fri, 27 Nov 2026 07:00:00 +0100</pubDate>
+      <itunes:duration>391</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Donnerstag, 26. November 2026</title>
       <description>Schanis Morgenüberblick für Donnerstag, 26. November 2026: erst Österreich und die Welt, dann Finanzen, dann Tech und KI. Gekürzt und nacherzählt aus echten Podcast-Folgen, nichts dazugedichtet. Keine Anlageempfehlung.
