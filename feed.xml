@@ -6,7 +6,7 @@
     <atom:link href="https://spencer-at.github.io/schani-podcast-fc13f351/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Privater Morgenüberblick für Wolfgang: Österreich und die Welt, Finanzen, Tech und KI. Nicht öffentlich gelistet.</description>
     <language>de-at</language>
-    <lastBuildDate>Fri, 27 Nov 2026 06:50:57 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 06:44:27 +0100</lastBuildDate>
     <itunes:author>Schani</itunes:author>
     <itunes:owner><itunes:name>Schani</itunes:name></itunes:owner>
     <itunes:image href="https://spencer-at.github.io/schani-podcast-fc13f351/cover.jpg"/>
@@ -15,6 +15,43 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>yes</itunes:block>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Samstag, 28. November 2026</title>
+      <description>Schanis Morgenüberblick für Samstag, 28. November 2026: erst Österreich und die Welt, dann Finanzen, dann Tech und KI. Gekürzt und nacherzählt aus echten Podcast-Folgen, nichts dazugedichtet. Keine Anlageempfehlung.
+
+Quellen:
+- Quelle: Folge/Artikel (Datum) Link
+- Ö1 Journale: Abendjournal um 18 (27.11.2026), Transkript der ersten 10 Minuten (27.11.2026, 18:33 CET) https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-27112026
+- ORF.at: Pensionen/Alterssicherungskommission, Lkw-Maut 2027, Putin Atom-U-Boot „Perm“, Meloni/Selenskyj, S&amp;P Frankreich (abgerufen 28.11.2026, ca. 06:50 CET) https://orf.at/
+- Der Standard – Thema des Tages: Ex-Hells-Angel: Man will mich töten / Kassra Zargaran (28.11.2026, 06:00 CET) https://themadestages.podigee.io/1975-ex-hells-angel-man-will-mich-toten-kassra-zargaran
+- Alles auf Aktien: 6 Aktien aus Zimmer 106 – die ersten Kandidaten im AAA-Check (Beschreibung) (28.11.2026, 04:45 CET) https://allesaufaktien.podigee.io/b1762-6-aktien-aus-zimmer-106-die-ersten-kandidaten-im-aaa-check
+- Ohne Aktien wird's schwer: KI-Anleihen: Risiko oder spannendes Investment? (Beschreibung) (28.11.2026, 03:00 CET) https://feeds.megaphone.fm/PDS3666998460
+- Trending Topics Tech Talk: keine Folge im Zeitfenster (–) https://api.riverside.com/hosting/uw69nfsF.rss
+- heise KI-Update: KI-Update kompakt: Anthropic Siren, AMPEL, Mathe-Beweise, Skizzenbuch (27.11.2026, 15:00 CET) https://kiupdate.podigee.io/691-27-11-2026 (Begleitartikel https://heise.de/-11538569)
+- heise kurz informiert: Kurz informiert 27.11.2026 – spät (27.11.2026, 15:00 CET) https://kurzinformiert.podigee.io/3041-kurz-informiert-27-11-2026-spat (heise.de/-11540057, -11539961, -11540239, -11540177)
+- 404 Media Podcast: keine Folge im Zeitfenster (–) https://feeds.megaphone.fm/TBIEA2761282490
+- Open-Meteo: Bad Ischl, aktuell + 3 Tage (abgerufen 28.11.2026, 06:30 CET) https://api.open-meteo.com</description>
+      <itunes:summary>Schanis Morgenüberblick für Samstag, 28. November 2026: erst Österreich und die Welt, dann Finanzen, dann Tech und KI. Gekürzt und nacherzählt aus echten Podcast-Folgen, nichts dazugedichtet. Keine Anlageempfehlung.
+
+Quellen:
+- Quelle: Folge/Artikel (Datum) Link
+- Ö1 Journale: Abendjournal um 18 (27.11.2026), Transkript der ersten 10 Minuten (27.11.2026, 18:33 CET) https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-27112026
+- ORF.at: Pensionen/Alterssicherungskommission, Lkw-Maut 2027, Putin Atom-U-Boot „Perm“, Meloni/Selenskyj, S&amp;P Frankreich (abgerufen 28.11.2026, ca. 06:50 CET) https://orf.at/
+- Der Standard – Thema des Tages: Ex-Hells-Angel: Man will mich töten / Kassra Zargaran (28.11.2026, 06:00 CET) https://themadestages.podigee.io/1975-ex-hells-angel-man-will-mich-toten-kassra-zargaran
+- Alles auf Aktien: 6 Aktien aus Zimmer 106 – die ersten Kandidaten im AAA-Check (Beschreibung) (28.11.2026, 04:45 CET) https://allesaufaktien.podigee.io/b1762-6-aktien-aus-zimmer-106-die-ersten-kandidaten-im-aaa-check
+- Ohne Aktien wird's schwer: KI-Anleihen: Risiko oder spannendes Investment? (Beschreibung) (28.11.2026, 03:00 CET) https://feeds.megaphone.fm/PDS3666998460
+- Trending Topics Tech Talk: keine Folge im Zeitfenster (–) https://api.riverside.com/hosting/uw69nfsF.rss
+- heise KI-Update: KI-Update kompakt: Anthropic Siren, AMPEL, Mathe-Beweise, Skizzenbuch (27.11.2026, 15:00 CET) https://kiupdate.podigee.io/691-27-11-2026 (Begleitartikel https://heise.de/-11538569)
+- heise kurz informiert: Kurz informiert 27.11.2026 – spät (27.11.2026, 15:00 CET) https://kurzinformiert.podigee.io/3041-kurz-informiert-27-11-2026-spat (heise.de/-11540057, -11539961, -11540239, -11540177)
+- 404 Media Podcast: keine Folge im Zeitfenster (–) https://feeds.megaphone.fm/TBIEA2761282490
+- Open-Meteo: Bad Ischl, aktuell + 3 Tage (abgerufen 28.11.2026, 06:30 CET) https://api.open-meteo.com</itunes:summary>
+      <enclosure url="https://spencer-at.github.io/schani-podcast-fc13f351/episodes/2026-11-28.mp3" length="3523782" type="audio/mpeg"/>
+      <guid isPermaLink="false">schani-podcast-2026-11-28</guid>
+      <pubDate>Sat, 28 Nov 2026 07:00:00 +0100</pubDate>
+      <itunes:duration>352</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Freitag, 27. November 2026</title>
       <description>Schanis Morgenüberblick für Freitag, 27. November 2026: erst Österreich und die Welt, dann Finanzen, dann Tech und KI. Gekürzt und nacherzählt aus echten Podcast-Folgen, nichts dazugedichtet. Keine Anlageempfehlung.
